@@ -1,0 +1,28 @@
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+receptor:alpha receptor,alpha-adrenergic receptor,alpha-adrenoceptor,alveolar bed,anlage,apodeme,aster,ball,baroreceptor,beta receptor
+frequently:oft,often,oftentimes,ofttimes
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+invasive:aggressive,encroaching,fast-growing,incursive,intrusive,invading,offensive,strong-growing,trespassing
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila
+play:abstract,accompany,ace,acquit,act,act as,act involuntarily,act on,act out,act reflexively
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+major:better,leading,major(,prima,senior,star,starring,stellar
+role:acting,activating,activation,actus reus,aid,animation,assignment,assist,assistance,attempt
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+signaling:alarm,alarum,alert,all clear,animal communication,anomalous communication,auditory communication,beam,black and white,bugle call
+involved:Byzantine,active,attached,caught up,committed,complex,concerned,convoluted,embroiled,enclosed
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+aim:address,aspire,be after,calculate,charge,deploy,design,direct,draw a bead on,dress
+retrospective:
+analysis:Fourier analysis,allegory,analytic thinking,anatomy,anticipation,argument,argumentation,bathos,behavior modification,behavior therapy
+assess:accept,adjudge,anticipate,appraise,approve,ascribe,assign,attribute,believe,calculate
+diagnostic:characteristic,symptomatic
+performance:accenting,accentuation,accomplished fact,accomplishment,achievement,act,action,activity,aggression,alienation
+imaging:MRI,PET,X-radiation,X-raying,anthropomorphism,chimaera,chimera,delineation,depicting,depiction
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila
+using:abuse,annoyance,annoying,blaxploitation,colonialism,disregard,exploitation,harassment,ill-treatment,ill-usage
+recently:late,lately,latterly,of late
+probe:canvass,curet,curette,dermatome,dilater,dilator,empirical research,experiment,experimentation,field work

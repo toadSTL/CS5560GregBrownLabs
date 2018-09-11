@@ -1,0 +1,30 @@
+association:AARP,ASEAN,American Baptist Convention,American Legion,Association for the Advancement of Retired Persons,Association of Southeast Asian Nations,Fabian Society,Girl Scouts,LTM,NGO
+between:'tween,betwixt
+vitamin:course,dainty,delicacy,dish,fast food,fat-soluble vitamin,finger food,goody,ingesta,kickshaw
+intake:ablactation,air horn,anastalsis,aperture,aspiration,bell,breath,breathing,breathing in,breathing out
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila
+survival:abidance,absorption,acidification,adiabatic process,aeration,antiredeposition,capture,cataphoresis,centrifugation,chemical action
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+systemic:general
+review:PM,accounting entry,accrual basis,acid test,action,action at law,adoption,analysis,analytical review,appeal
+summarize:abstract,add,announce,answer,append,articulate,cite,declare,ditto,docket
+on:along
+association:AARP,ASEAN,American Baptist Convention,American Legion,Association for the Advancement of Retired Persons,Association of Southeast Asian Nations,Fabian Society,Girl Scouts,LTM,NGO
+between:'tween,betwixt
+dietary:board,chow,chuck,diet,eats,grub,menu,ration,table
+vitamin:course,dainty,delicacy,dish,fast food,fat-soluble vitamin,finger food,goody,ingesta,kickshaw
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+survival:abidance,absorption,acidification,adiabatic process,aeration,antiredeposition,capture,cataphoresis,centrifugation,chemical action
+overall:boilers suit,boilersuit,dust coat,duster,gabardine,gaberdine,jumper,smock
+survival:abidance,absorption,acidification,adiabatic process,aeration,antiredeposition,capture,cataphoresis,centrifugation,chemical action
+comprehensive:across-the-board,all-around,all-embracing,all-encompassing,all-inclusive,all-round,blanket,broad,citywide,complete
+search:PM,access,acting,activating,activation,actus reus,aid,analysis,animation,assist
+inception:casus belli,cause,conception,creation,egress,emanation,emergence,generation,genesis,germination
+summary:compact,compendious,concise,drumhead,succinct,unofficial
+hazard:bad luck,bunker,chance,consequence,effect,endangerment,even chance,event,fortune,health hazard
+confidence:anticipation,assurance,authority,blood brotherhood,certitude,cocksureness,companionship,company,expectation,fellowship
+using:abuse,annoyance,annoying,blaxploitation,colonialism,disregard,exploitation,harassment,ill-treatment,ill-usage
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+random:ergodic,haphazard,hit-or-miss,stochastic
+effects:chattel,clobber,movable,personal chattel,personal effects,stuff

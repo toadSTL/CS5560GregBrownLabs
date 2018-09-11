@@ -1,0 +1,47 @@
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+trend:Call,New Look,aim,bandwagon,bearing,bent,connoisseurship,course,culture,delicacy
+less:fewer,inferior,little,slight
+radical:ASCII character,African,Amerindian,Aquarius,Archer,Aries,Balance,Black,Black person,Bolshevik
+surgical:accurate,operative,postoperative,preoperative
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila
+due:ascribable,attributable,callable,cod,collect,collectable,collectible,delinquent,expected,imputable
+better:benefit,bettor,bookie,bookmaker,caller,crap-shooter,crapshooter,croupier,desirability,desirableness
+understanding:Bill of Rights,Call,account,agreement,amendment,announcement,annunciation,answer,appreciation,apprehension
+tumour:acanthoma,adipose tumor,angioma,benign tumor,benign tumour,blastocytoma,blastoma,brain tumor,brain tumour,carcinoid
+biology:Asia,Central America,Europe,Free World,GAAP,Judaica,North America,Oort cloud,South America,Third World
+new:Modern,New,bran-new,brand-new,current,early,fresh,hot,inexperienced,inexperient
+treatment:G-Jo,High Renaissance,Romantic Movement,Romanticism,TLC,acupressure,acupuncture,administration,authorisation,authorization
+such:much
+as:AS,Ac,American Samoa,Ar,As,At,B,Bh,Br,C
+chemotherapy:EMDA,HRT,actinotherapy,aromatherapy,botanical medicine,chrysotherapy,correction,electric healing,electrical healing,electromotive drug administration
+radiotherapy:Curietherapy,EMDA,HRT,X-ray therapy,actinotherapy,aromatherapy,botanical medicine,chemotherapy,correction,electric healing
+production:abidance,acquiring,action,activity,actuation,addition,art,artistic creation,artistic production,assessment
+remains:archeological remains,cadaver,carcase,carcass,carrion,catch,charm,clay,commemorative,corpse
+one:1,ane,cardinal,combined,extraordinary,i,incomparable,indefinite,matchless,nonpareil
+main:chief,important,independent,intense,master,of import,primary,principal
+surgical:accurate,operative,postoperative,preoperative
+side:Eden,Edgeworth-Kuiper belt,English,ICU,Klein bottle,Kuiper belt,Mobius strip,Papua,Shangri-la,Sind
+effects:chattel,clobber,movable,personal chattel,personal effects,stuff
+can:Dumpster,W.C.,abdomen,acoustic buoy,adnexa,ambulacrum,ampulla,anatomical structure,anechoic chamber,annexa
+result:Bill of Rights,Coriolis effect,Z,account,affected role,aftereffect,aftermath,agent,agentive role,agreement
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+prolonged:drawn-out,elongated,extended,lengthened,lengthy,long,protracted
+delay:Americanise,Americanize,Europeanise,Europeanize,Frenchify,Islamise,Islamize,accelerate,accustom,acerbate
+radiotherapy:Curietherapy,EMDA,HRT,X-ray therapy,actinotherapy,aromatherapy,botanical medicine,chemotherapy,correction,electric healing
+patient:affected role,agent,agentive role,alexic,analysand,anorectic,anorexic,arthritic,benefactive role,beneficiary
+aim:address,aspire,be after,calculate,charge,deploy,design,direct,draw a bead on,dress
+study:PM,adagio,allegretto,allegro,allometry,andante,anechoic chamber,antechamber,anteroom,applied science
+provide:accommodate,accord,administer,afford,air-condition,air-cool,allot,allow,allow for,alphabetize
+an:AA,AAS,AN,Associate in Applied Science,Associate in Arts,Associate in Nursing
+update:account,acquaint,advise,announce,apprise,apprize,attemper,bear witness,betray,buffer
+on:along
+risk:campaign,cause,chance,conditional probability,contingent probability,crapshoot,cross section,crusade,danger,drive
+production:abidance,acquiring,action,activity,actuation,addition,art,artistic creation,artistic production,assessment
+after:afterward,afterwards,later,later on,subsequently
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila
+surgery:D and C,ER,OR,PPP,Shirodkar's operation,UPPP,ablation,amputation,anaplasty,anechoic chamber
+latest:a la mode,current,fashionable,in style,in vogue,modish,stylish,up-to-the-minute
+treatment:G-Jo,High Renaissance,Romantic Movement,Romanticism,TLC,acupressure,acupuncture,administration,authorisation,authorization

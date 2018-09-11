@@ -1,0 +1,140 @@
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+most:about,almost,near,nearly,nigh,to the highest degree,virtually,well-nigh
+sensitive:alive,aware,classified,cognisant,cognizant,conscious,delicate,erogenous,excitable,feisty
+test:abound,accept,account,account for,act,add up,adhere,adjudge,adorn,amount
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila
+detection:aesthesis,auditory perception,beholding,breakthrough,catching,constancy,demodulation,detecting,detective work,determination
+conventional:button-down,buttoned-down,ceremonious,conservative,customary,established,formal,formulaic,nonrepresentational,orthodox
+imaging:MRI,PET,X-radiation,X-raying,anthropomorphism,chimaera,chimera,delineation,depicting,depiction
+digital:
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+or:Beaver State,ER,OR,Oregon,emergency room,operating room,operating theater,operating theatre,recovery room,surgery
+long:abundant,agelong,all-night,aware,bimestrial,chronic,continuing,daylong,drawn-out,durable
+scan:advance,agitate,allegorise,allegorize,auscultate,autopsy,be amiss,beat,blow,bowl over
+time:GMT,Golden Age,Greenwich Mean Time,Greenwich Time,Indian summer,Olympiad,Platonic year,SCLK,Saint Martin's summer,UT
+relatively:comparatively
+high:SPF,academy,amplitude level,birthplace,bliss,blissfulness,caliber,calibre,cloud nine,composite school
+costs:allowance,breakage
+limit:absoluteness,addition,ambit,area,bag,border,borderline,bound,boundary,boundary line
+widespread:distributed,far-flung,general
+it:EE,IT,aeronautical engineering,architectural engineering,bioengineering,bionics,biotechnology,chemical engineering,civil engineering,computer science
+currently:presently
+only:alone,but,entirely,exclusively,just,merely,only if,only when,simply,solely
+routinely:
+implemented:enforced
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+screening:Aertex,Canton flannel,Velcro,Viyella,aba,acrylic,acting out,alpaca,array,bagging
+at:Ac,Ar,As,At,B,Bh,Br,C,Cl,Db
+an:AA,AAS,AN,Associate in Applied Science,Associate in Arts,Associate in Nursing
+increased:accrued,accumulated,augmented,elevated,enhanced,enlarged,exaggerated,hyperbolic,inflated,magnified
+risk:campaign,cause,chance,conditional probability,contingent probability,crapshoot,cross section,crusade,danger,drive
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+overcome:anger,ask for,bat,beat,beat out,benight,best,bruise,bulldog,cheat
+abbreviated:brief,short,shortened,truncated
+dynamic:active,can-do,changing,driving,dynamical,energetic,energising,energizing,ever-changing,high-energy
+have:Americanise,Americanize,abound,accept,ace,acetylate,acetylise,acetylize,acquire,adapt
+substantially:considerably,well
+shorten:Americanise,Americanize,Europeanise,Europeanize,Frenchify,Islamise,Islamize,abate,abbreviate,abridge
+image:African,Amerindian,Aquarius,Archer,Aries,Balance,Black,Black person,Bull,CAT scan
+acquisition:acceptance,accession,accomplishment,acquirement,addition,annexation,apperception,appropriation,aptitude,assignment
+interpretation:abstractionism,accounting,anagoge,antitype,appearance,blur,broad interpretation,clarification,concrete representation,concretism
+time:GMT,Golden Age,Greenwich Mean Time,Greenwich Time,Indian summer,Olympiad,Platonic year,SCLK,Saint Martin's summer,UT
+while:bit,cold snap,cold spell,day,dead,ephemera,hard times,hot spell,incarnation,minute
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+high:SPF,academy,amplitude level,birthplace,bliss,blissfulness,caliber,calibre,cloud nine,composite school
+diagnostic:characteristic,symptomatic
+develop:Americanise,Americanize,Europeanise,Europeanize,Frenchify,Islamise,Islamize,accelerate,accustom,ace
+abbreviated:brief,short,shortened,truncated
+reflect:associate,authenticate,bethink,brainstorm,bring out,call attention,center,centre,chew over,cogitate
+increasing:accelerando,accelerative,acceleratory,accretionary,accretive,augmentative,crescendo,incorporative,maximising,maximizing
+scrutiny:PM,analysis,audit,autopsy,bank examination,checkup,comparing,comparison,count,counting
+disproportionate:disproportional,incommensurate
+contribution:accordance,accordance of rights,advance,aid,alms,alms-giving,almsgiving,award,batting,battle
+radiology:MRI,PET,X-radiation,X-raying,echography,fluoroscopy,magnetic resonance imaging,medical specialty,medicine,neurology
+rising:acclivitous,ascending,emerging,future,improving,new,up,uphill
+overall:boilers suit,boilersuit,dust coat,duster,gabardine,gaberdine,jumper,smock
+healthcare:TLC,baby sitting,babysitting,dental care,faith cure,faith healing,first aid,hair care,haircare,hairdressing
+policy:Thatcherism,Zionism,acquisition agreement,activism,adhesion contract,aleatory contract,articles of agreement,battle plan,beggar-my-neighbor policy,beggar-my-neighbor strategy
+are:acre,agate line,ar,arpent,b,barn,centare,column inch,dessiatine,em
+now:at once,at present,directly,forthwith,immediately,instantly,like a shot,nowadays,right away,straight off
+focusing:aggravation,centering,direction,exacerbation,focal point,focalisation,focalization,focus,focussing,particularism
+on:along
+curbing:bevel,bezel,brim,cant,chamfer,curb,cutting edge,deckle,deckle edge,featheredge
+use:Americanism,Anglicism,Britishism,Germanism,abuse,acting,activating,activation,actus reus,aid
+advanced:advance,civilised,civilized,forward-looking,front,hi-tech,high,high-tech,in advance,innovative
+imaging:MRI,PET,X-radiation,X-raying,anthropomorphism,chimaera,chimera,delineation,depicting,depiction
+such:much
+as:AS,Ac,American Samoa,Ar,As,At,B,Bh,Br,C
+while:bit,cold snap,cold spell,day,dead,ephemera,hard times,hot spell,incarnation,minute
+continuing:chronic,continued,long
+promote:Americanise,Americanize,acetylate,acetylise,acetylize,acquire,adapt,adjust,adopt,advance
+quality:SPF,ability,accuracy,adequacy,air,amorality,amplitude level,appearance,arability,aridity
+appropriateness:appositeness,aptness,convenience,correctness,decency,decorousness,decorum,felicitousness,felicity,fitness
+important:Copernican,all important,all-important,alpha,authoritative,beta,big,burning,cardinal,central
+cornerstone:ashlar,base,basic assumption,basis,capstone,conclusion,constatation,copestone,coping stone,foundation
+healthcare:TLC,baby sitting,babysitting,dental care,faith cure,faith healing,first aid,hair care,haircare,hairdressing
+value:GDP,GNP,argument,beau ideal,book value,chance,characteristic root of a square matrix,chroma,chromaticity,clocking
+as:AS,Ac,American Samoa,Ar,As,At,B,Bh,Br,C
+outcome:Coriolis effect,Z,aftereffect,aftermath,backwash,bandwagon effect,branch,brisance,butterfly effect,by-product
+over:all over,o'er
+concept:abstract,abstraction,attribute,belief,burden,category,cogitation,conception,conceptualisation,conceptuality
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+abbreviated:brief,short,shortened,truncated
+exam:bar exam,bar examination,channel,communication channel,comp,comprehensive,comprehensive examination,contact,discourse,discussion
+very:identical,precise,same,selfsame
+given:acknowledged,apt,disposed,granted,inclined,minded,tending
+high:SPF,academy,amplitude level,birthplace,bliss,blissfulness,caliber,calibre,cloud nine,composite school
+diagnostic:characteristic,symptomatic
+accuracy:ability,adequacy,air,amorality,appearance,arability,aridity,asset,atmosphere,attraction
+coupled:conjugate,conjugated,connected,joined,linked,united
+possibility:Hobson's choice,abstract,abstraction,achievability,actuality,aliveness,animation,anticipation,apprehension,assumption
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+marked:asterisked,barred,conspicuous,masked,noticeable,pronounced,scarred,starred,well-marked
+reduction:about-face,addition reaction,adjustment,adulteration,aldol reaction,alleviation,alteration,amortisation,amortization,chain reaction
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+cost:GDP,GNP,assessment,average cost,book value,borrowing cost,capital expenditure,charge,cost of living,cost overrun
+an:AA,AAS,AN,Associate in Applied Science,Associate in Arts,Associate in Nursing
+recent:late,new,past
+about:almost,approximately,around,close to,just about,more or less,most,near,nearly,nigh
+contrast:Rubicon,analogy,antagonism,antipode,antithesis,approximate range,ballpark,collation,confines,conflict
+such:much
+as:AS,Ac,American Samoa,Ar,As,At,B,Bh,Br,C
+imaging:MRI,PET,X-radiation,X-raying,anthropomorphism,chimaera,chimera,delineation,depicting,depiction
+are:acre,agate line,ar,arpent,b,barn,centare,column inch,dessiatine,em
+also:as well,besides,likewise,too
+being:action,activeness,activity,actuality,aerobe,agency,aliveness,amphidiploid,anaerobe,animal
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila
+further:farther
+larger:big,bigger,large
+prospective:future,likely,potential
+standardized:exchangeable,interchangeable,replaceable,similar,standard,standardised
+imaging:MRI,PET,X-radiation,X-raying,anthropomorphism,chimaera,chimera,delineation,depicting,depiction
+reproducibility:duplicability,infallibility,solidity,solidness
+are:acre,agate line,ar,arpent,b,barn,centare,column inch,dessiatine,em
+initial:A,B,C,D,E,F,G,H,I,J
+abbreviated:brief,short,shortened,truncated
+suggest:accent,accentuate,account,acquaint,adumbrate,advance,advert,advise,advocate,affirm
+it:EE,IT,aeronautical engineering,architectural engineering,bioengineering,bionics,biotechnology,chemical engineering,civil engineering,computer science
+feasible:executable,possible,practicable,viable,workable
+offer:accord,accost,acquit,act on,act superior,administer,afford,aggress,air-condition,air-cool
+screening:Aertex,Canton flannel,Velcro,Viyella,aba,acrylic,acting out,alpaca,array,bagging
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+article:Americana,above,afterpiece,anachronism,antiquity,arbitration clause,article of commerce,bed,block,book
+give:Americanise,Americanize,abide,accent,accentuate,accommodate,accord,acetylate,acetylise,acetylize
+an:AA,AAS,AN,Associate in Applied Science,Associate in Arts,Associate in Nursing
+overview:CV,abridgement,abridgment,abstract,argument,capitulation,capsule,compendium,condensation,conspectus
+abbreviated:brief,short,shortened,truncated
+fast:accelerated,alacritous,allegretto,allegro,andantino,blistering,causative,debauched,degenerate,degraded
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+utility:Beaufort scale,Brix scale,C program,FORTRAN program,LISP program,Web Map Server,Web Map Service,ability,accuracy,adequacy
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila
+emerging:emergent,future,nascent,rising
+role:acting,activating,activation,actus reus,aid,animation,assignment,assist,assistance,attempt
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+new:Modern,New,bran-new,brand-new,current,early,fresh,hot,inexperienced,inexperient
+healthcare:TLC,baby sitting,babysitting,dental care,faith cure,faith healing,first aid,hair care,haircare,hairdressing
+paradigm:Weltanschauung,archetype,bird's eye view,brass family,concentrate,conjugation,cutting edge,declension,denomination,epitome

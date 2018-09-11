@@ -1,0 +1,106 @@
+mammography:X-ray photography,auscultation,cardiography,echocardiography,echoencephalography,electrocardiography,electromyography,prenatal diagnosis,roentgenography,thermography
+low:abject,alto,baritone,bass,blue,broken,contemptible,contrabass,contralto,crushed
+diagnostic:characteristic,symptomatic
+sensitivity:H,Midas touch,S,absorption factor,absorptivity,acuteness,adaptability,affect,affection,affectionateness
+dense:dim,dull,dumb,heavy,impenetrable,obtuse,slow,stupid,thick
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+alternative:alternate,disjunctive,secondary,substitute,unconventional
+screening:Aertex,Canton flannel,Velcro,Viyella,aba,acrylic,acting out,alpaca,array,bagging
+such:much
+as:AS,Ac,American Samoa,Ar,As,At,B,Bh,Br,C
+dual:double,duple,multiple,plural,three-fold,threefold,treble,two-fold,twofold
+energy:Agriculture,Agriculture Department,Commerce,Commerce Department,DOE,Defense,Defense Department,Department of Agriculture,Department of Commerce,Department of Commerce and Labor
+mammography:X-ray photography,auscultation,cardiography,echocardiography,echoencephalography,electrocardiography,electromyography,prenatal diagnosis,roentgenography,thermography
+tomography:MRI,PET,X-radiation,X-raying,delineation,depiction,echography,imaging,magnetic resonance imaging,photography
+magnetic:attractable,attractive,charismatic,magnetised,magnetized
+resonance:acoustic phenomenon,atmospheric phenomenon,beat,boundary layer,chaos,chop,cloud,color,coloration,colour
+imaging:MRI,PET,X-radiation,X-raying,anthropomorphism,chimaera,chimera,delineation,depicting,depiction
+fluorescence:Moon,autofluorescence,beam,beam of light,candle flame,candlelight,corona,counterglow,daylight,firelight
+imaging:MRI,PET,X-radiation,X-raying,anthropomorphism,chimaera,chimera,delineation,depicting,depiction
+are:acre,agate line,ar,arpent,b,barn,centare,column inch,dessiatine,em
+being:action,activeness,activity,actuality,aerobe,agency,aliveness,amphidiploid,anaerobe,animal
+used:exploited,ill-used,in use,misused,old,put-upon,secondhand,utilised,utilized,victimised
+or:Beaver State,ER,OR,Oregon,emergency room,operating room,operating theater,operating theatre,recovery room,surgery
+currently:presently
+available:accessible,acquirable,addressable,disposable,easy,for sale,forthcoming,free,getable,gettable
+contrast:Rubicon,analogy,antagonism,antipode,antithesis,approximate range,ballpark,collation,confines,conflict
+are:acre,agate line,ar,arpent,b,barn,centare,column inch,dessiatine,em
+have:Americanise,Americanize,abound,accept,ace,acetylate,acetylise,acetylize,acquire,adapt
+safety:IUD,Kinetoscope,PTO,absolution,acoustic device,adapter,adaptor,aerofoil,afterburner,agglomerator
+each:all
+imaging:MRI,PET,X-radiation,X-raying,anthropomorphism,chimaera,chimera,delineation,depicting,depiction
+technique:Benday process,adeptness,adroitness,antialiasing,bonding,brushwork,command,computer simulation,control,coordination
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+different:antithetic,antithetical,assorted,contrary,contrasting,contrastive,diametric,diametrical,disparate,dissimilar
+contrast:Rubicon,analogy,antagonism,antipode,antithesis,approximate range,ballpark,collation,confines,conflict
+therefore:consequently,hence,so,thence,thus
+sought:sought-after,wanted
+develop:Americanise,Americanize,Europeanise,Europeanize,Frenchify,Islamise,Islamize,accelerate,accustom,ace
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+contrast:Rubicon,analogy,antagonism,antipode,antithesis,approximate range,ballpark,collation,confines,conflict
+agent:Comptroller General,Comptroller of the Currency,Fed,Federal,Indian agent,Inquisitor,account executive,account representative,accountant,administrative official
+functional:functioning,operable,operational,operative,practical,running,serviceable,structural,usable,useable
+each:all
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+imaging:MRI,PET,X-radiation,X-raying,anthropomorphism,chimaera,chimera,delineation,depicting,depiction
+modality:G-Jo,acupressure,acupuncture,agreement,anaphoric relation,aspect,audition,auditory modality,auditory sense,autogenic therapy
+simplify:Americanise,Americanize,Europeanise,Europeanize,Frenchify,Islamise,Islamize,accelerate,accustom,acerbate
+diagnosis:blood typing,diagnosing,medical diagnosis,uranalysis,urinalysis
+process:Agenise,Agenize,act upon,action,add,add together,administer,administrate,aerate,air-condition
+address:accost,aphorise,aphorize,approach,ask,assign,avail,blaze away,blog,brand
+existing:active,alive,existent,extant,present
+contrast:Rubicon,analogy,antagonism,antipode,antithesis,approximate range,ballpark,collation,confines,conflict
+present:accord,account,acquaint,act,add,administer,advise,allot,allow,animalise
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+novel:album,coffee-table book,detective novel,dime novel,dystopia,fantasy,folio,hardback,hardcover,journal
+imaging:MRI,PET,X-radiation,X-raying,anthropomorphism,chimaera,chimera,delineation,depicting,depiction
+probe:canvass,curet,curette,dermatome,dilater,dilator,empirical research,experiment,experimentation,field work
+potent:effective,effectual,efficacious,equipotent,fertile,influential,multipotent,powerful,stiff,strong
+contrast:Rubicon,analogy,antagonism,antipode,antithesis,approximate range,ballpark,collation,confines,conflict
+improved:better,built,cleared,developed,landscaped,reinforced
+formed:H-shaped,L-shaped,T-shaped,U-shaped,W-shaped,Y-shaped,acorn-shaped,awl-shaped,bacillar,bacillary
+by:aside,away,past
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+silver:Ag,Au,Cu,Davy's gray,Davy's grey,Pt,apple of discord,ash gray,ash grey,atomic number 29
+sulfide:U308,acceptor,acid,adduct,alkali,allomorph,aluminate,ammine,anhydride,anionic compound
+iron:Al,Am,Ba,Be,Bi,Bk,Ca,Cd,Ce,Cf
+oxide:U308,acceptor,acid,adduct,alkali,allomorph,aluminate,ammine,anhydride,anionic compound
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+negligible:minimal,minimum,paltry,trifling,worthless
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+agreement:Bill of Rights,accession,accord,accordance,account,acquiescence,address,affirmation,amendment,anaphoric relation
+minimal:borderline,marginal,minimum,negligible,nominal,stripped,stripped-down,token,tokenish
+silver:Ag,Au,Cu,Davy's gray,Davy's grey,Pt,apple of discord,ash gray,ash grey,atomic number 29
+ion:alpha particle,anion,beta particle,boson,cation,deuteron,elementary particle,fermion,fundamental particle,magnetic monopole
+release:Kinetoscope,PTO,Section Eight,abolishment,abolition,abort,abortion,absorption,accomplished fact,acidification
+strong:alcoholic,beardown,beefed-up,brawny,bullnecked,bullocky,effective,effectual,efficacious,equipotent
+contrast:Rubicon,analogy,antagonism,antipode,antithesis,approximate range,ballpark,collation,confines,conflict
+all:complete,each,every,every last
+imaging:MRI,PET,X-radiation,X-raying,anthropomorphism,chimaera,chimera,delineation,depicting,depiction
+as:AS,Ac,American Samoa,Ar,As,At,B,Bh,Br,C
+demonstrated:incontestable,incontestible
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+phantom:Flying Dutchman,UFO,apparition,banshee,banshie,control,djinn,djinni,djinny,evil spirit
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+tumor:acanthoma,adipose tumor,angioma,benign tumor,benign tumour,blastocytoma,blastoma,brain tumor,brain tumour,carcinoid
+imaging:MRI,PET,X-radiation,X-raying,anthropomorphism,chimaera,chimera,delineation,depicting,depiction
+as:AS,Ac,American Samoa,Ar,As,At,B,Bh,Br,C
+evidenced:proved,proven
+by:aside,away,past
+increase:acceleration,accession,accretion,accrual,accruement,accumulation,action,activity,addition,advance
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+contrast:Rubicon,analogy,antagonism,antipode,antithesis,approximate range,ballpark,collation,confines,conflict
+after:afterward,afterwards,later,later on,subsequently
+study:PM,adagio,allegretto,allegro,allometry,andante,anechoic chamber,antechamber,anteroom,applied science
+potential:achievability,amperage,attainability,attainableness,capacitance,capacity,chance,charge,conceivability,conceivableness
+as:AS,Ac,American Samoa,Ar,As,At,B,Bh,Br,C
+an:AA,AAS,AN,Associate in Applied Science,Associate in Arts,Associate in Nursing
+effective:actual,competent,effectual,efficacious,efficient,existent,good,hard-hitting,impelling,impressive
+contrast:Rubicon,analogy,antagonism,antipode,antithesis,approximate range,ballpark,collation,confines,conflict
+agent:Comptroller General,Comptroller of the Currency,Fed,Federal,Indian agent,Inquisitor,account executive,account representative,accountant,administrative official
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila
+diagnosis:blood typing,diagnosing,medical diagnosis,uranalysis,urinalysis
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+range:Mandelbrot set,Primus,Primus stove,airfield,alphabet soup,ambit,approximate range,aquifer,arboretum,area
+imaging:MRI,PET,X-radiation,X-raying,anthropomorphism,chimaera,chimera,delineation,depicting,depiction

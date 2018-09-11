@@ -1,0 +1,91 @@
+recent:late,new,past
+cohort:Four Hundred,age bracket,age group,aged,ancients,attendance,baffled,blind,blood,brave
+study:PM,adagio,allegretto,allegro,allometry,andante,anechoic chamber,antechamber,anteroom,applied science
+reported:according,notifiable,reportable
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+increased:accrued,accumulated,augmented,elevated,enhanced,enlarged,exaggerated,hyperbolic,inflated,magnified
+risk:campaign,cause,chance,conditional probability,contingent probability,crapshoot,cross section,crusade,danger,drive
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila
+current:air flow,airflow,amperage,backflow,backflowing,capacitance,capacity,charge,conductance,dielectric heating
+recent:late,new,past
+hormonal:
+contraception:coitus interruptus,contraceptive method,natural family planning,onanism,oral contraception,pulling out,surgical contraception,withdrawal,withdrawal method
+are:acre,agate line,ar,arpent,b,barn,centare,column inch,dessiatine,em
+largely:for the most part,mostly
+consistent:accordant,agreeable,coherent,concordant,conformable,consonant,duplicable,duplicatable,homogeneous,homogenous
+previous:early,former,late,old,past,preceding,premature
+study:PM,adagio,allegretto,allegro,allometry,andante,anechoic chamber,antechamber,anteroom,applied science
+not:non
+report:account,ammunition,anecdote,apprisal,arcanum,assay,ballot,bam,bang,banging
+on:along
+stage:Golden Age,Indian summer,Olympiad,Platonic year,Saint Martin's summer,acme,action,activeness,activity,age
+disease:Indian tick fever,Kawasaki disease,Kenya fever,Marseilles fever,Meniere's disease,aeroembolism,ague,air embolism,amyloidosis,animal disease
+at:Ac,Ar,As,At,B,Bh,Br,C,Cl,Db
+it:EE,IT,aeronautical engineering,architectural engineering,bioengineering,bionics,biotechnology,chemical engineering,civil engineering,computer science
+not:non
+clear:Americanise,Americanize,Europeanise,Europeanize,Frenchify,Islamise,Islamize,O.K.,abide,ablate
+extent:absolute magnitude,acme,ambit,amount,amplitude,area,bound,boundary,bulk,climax
+apparent:evident,manifest,obvious,ostensible,patent,plain,seeming,superficial,unmistakable
+increased:accrued,accumulated,augmented,elevated,enhanced,enlarged,exaggerated,hyperbolic,inflated,magnified
+risk:campaign,cause,chance,conditional probability,contingent probability,crapshoot,cross section,crusade,danger,drive
+may:Apr,April,Aug,August,Crataegus aestivalis,Crataegus apiifolia,Crataegus biltmoreana,Crataegus calpodendron,Crataegus coccinea,Crataegus coccinea mollis
+be:abound,accept,account,account for,act,add up,adhere,adorn,agree,amount
+due:ascribable,attributable,callable,cod,collect,collectable,collectible,delinquent,expected,imputable
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+small:atomic,bantam,belittled,bittie,bitty,decreased,diminished,diminutive,dinky,dwarfish
+advance:accompany,adolesce,advocate,age,agitate,aid,alleviate,amplify,angle,arise
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+timing:approach,approaching,chronological sequence,chronological succession,coming,coordination,devaluation,earliness,futurity,gun control
+study:PM,adagio,allegretto,allegro,allometry,andante,anechoic chamber,antechamber,anteroom,applied science
+not:non
+report:account,ammunition,anecdote,apprisal,arcanum,assay,ballot,bam,bang,banging
+on:along
+risk:campaign,cause,chance,conditional probability,contingent probability,crapshoot,cross section,crusade,danger,drive
+use:Americanism,Anglicism,Britishism,Germanism,abuse,acting,activating,activation,actus reus,aid
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+estradiol:DES,Estronol,diethylstilbestrol,diethylstilboestrol,estriol,estrone,hexestrol,mestranol,oestradiol,oestriol
+find:Americanise,Americanize,accept,access,acetylate,acetylise,acetylize,ache,acquire,acquit
+an:AA,AAS,AN,Associate in Applied Science,Associate in Arts,Associate in Nursing
+increasing:accelerando,accelerative,acceleratory,accretionary,accretive,augmentative,crescendo,incorporative,maximising,maximizing
+risk:campaign,cause,chance,conditional probability,contingent probability,crapshoot,cross section,crusade,danger,drive
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+current:air flow,airflow,amperage,backflow,backflowing,capacitance,capacity,charge,conductance,dielectric heating
+longer:African,Amerindian,Aquarius,Archer,Aries,Balance,Black,Black person,Bull,Cancer
+duration:GMT,Golden Age,Greenwich Mean Time,Greenwich Time,Indian summer,Olympiad,Platonic year,Saint Martin's summer,UT,UT1
+an:AA,AAS,AN,Associate in Applied Science,Associate in Arts,Associate in Nursing
+increased:accrued,accumulated,augmented,elevated,enhanced,enlarged,exaggerated,hyperbolic,inflated,magnified
+risk:campaign,cause,chance,conditional probability,contingent probability,crapshoot,cross section,crusade,danger,drive
+use:Americanism,Anglicism,Britishism,Germanism,abuse,acting,activating,activation,actus reus,aid
+intrauterine:
+potentially:
+important:Copernican,all important,all-important,alpha,authoritative,beta,big,burning,cardinal,central
+findings:Asia,Central America,Europe,Free World,GAAP,Judaica,North America,Oort cloud,South America,Third World
+have:Americanise,Americanize,abound,accept,ace,acetylate,acetylise,acetylize,acquire,adapt
+not:non
+consistently:systematically
+found:activate,actuate,appoint,arrange,attempt,base,build,constitute,devise,establish
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+previous:early,former,late,old,past,preceding,premature
+require:abound,accept,account,account for,act,add up,adhere,adorn,amount,answer
+further:farther
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila
+effects:chattel,clobber,movable,personal chattel,personal effects,stuff
+described:delineate,delineated,represented
+now:at once,at present,directly,forthwith,immediately,instantly,like a shot,nowadays,right away,straight off
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+multiple:double,factorial,lcm,least common multiple,lowest common multiple,quadruple,triple
+wane:abate,boil down,break,concentrate,contract,de-escalate,decelerate,decline,decoct,decrescendo
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+long:abundant,agelong,all-night,aware,bimestrial,chronic,continuing,daylong,drawn-out,durable
+hormonal:
+contraception:coitus interruptus,contraceptive method,natural family planning,onanism,oral contraception,pulling out,surgical contraception,withdrawal,withdrawal method
+use:Americanism,Anglicism,Britishism,Germanism,abuse,acting,activating,activation,actus reus,aid
+found:activate,actuate,appoint,arrange,attempt,base,build,constitute,devise,establish
+not:non
+be:abound,accept,account,account for,act,add up,adhere,adorn,agree,amount
+any:some,whatever,whatsoever
+increased:accrued,accumulated,augmented,elevated,enhanced,enlarged,exaggerated,hyperbolic,inflated,magnified
+total:abound,accept,account,account for,act,add,add together,add up,adhere,adorn
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila

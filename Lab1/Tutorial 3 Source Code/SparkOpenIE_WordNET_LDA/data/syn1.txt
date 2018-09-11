@@ -1,0 +1,122 @@
+are:acre,agate line,ar,arpent,b,barn,centare,column inch,dessiatine,em
+at:Ac,Ar,As,At,B,Bh,Br,C,Cl,Db
+higher:high
+risk:campaign,cause,chance,conditional probability,contingent probability,crapshoot,cross section,crusade,danger,drive
+malignancy:Indian tick fever,Kawasaki disease,Kenya fever,Marseilles fever,Meniere's disease,animal disease,anthrax,aspergillosis,autoimmune disease,autoimmune disorder
+as:AS,Ac,American Samoa,Ar,As,At,B,Bh,Br,C
+get:Americanise,Americanize,Europeanise,Europeanize,Frenchify,Islamise,Islamize,abandon,accelerate,accept
+older:aged,elder,elderly,experienced,experient,old,senior,sr.
+or:Beaver State,ER,OR,Oregon,emergency room,operating room,operating theater,operating theatre,recovery room,surgery
+have:Americanise,Americanize,abound,accept,ace,acetylate,acetylise,acetylize,acquire,adapt
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+strong:alcoholic,beardown,beefed-up,brawny,bullnecked,bullocky,effective,effectual,efficacious,equipotent
+family:AARP,ASEAN,Adapid,Adapid group,Amentiferae,American Baptist Convention,American Legion,Asia,Association for the Advancement of Retired Persons,Association of Southeast Asian Nations
+history:English,Occidentalism,Oriental Studies,Orientalism,Romantic Movement,Romanticism,Sinology,ability,account,ancient history
+study:PM,adagio,allegretto,allegro,allometry,andante,anechoic chamber,antechamber,anteroom,applied science
+collect:accept,accumulate,acquire,adopt,amass,archive,assume,attach,bale,bear
+family:AARP,ASEAN,Adapid,Adapid group,Amentiferae,American Baptist Convention,American Legion,Asia,Association for the Advancement of Retired Persons,Association of Southeast Asian Nations
+history:English,Occidentalism,Oriental Studies,Orientalism,Romantic Movement,Romanticism,Sinology,ability,account,ancient history
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+large:Brobdingnagian,ample,astronomic,astronomical,banging,bear-sized,big,bigger,biggish,blown-up
+cohort:Four Hundred,age bracket,age group,aged,ancients,attendance,baffled,blind,blood,brave
+pituitary:adenohypophysis,adrenal,adrenal cortex,adrenal gland,adrenal medulla,anterior pituitary,anterior pituitary gland,corpus luteum,epiphysis,epiphysis cerebri
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+outpatient:alexic,analysand,arthritic,hypertensive,hypochondriac,hypotensive,index case,inmate,inpatient,vaccinee
+clinic:baseball clinic,basketball clinic,closed session,dispensary,executive session,extended care facility,eye clinic,hearing,hockey clinic,hospital
+years:Golden Age,Indian summer,Olympiad,Platonic year,Saint Martin's summer,adolescence,adulthood,aeon,age,air alert
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+family:AARP,ASEAN,Adapid,Adapid group,Amentiferae,American Baptist Convention,American Legion,Asia,Association for the Advancement of Retired Persons,Association of Southeast Asian Nations
+member:Areopagite,Conservative,ICU,Rosicrucian,Rotarian,Trojan horse,adjunct,administrative body,administrative unit,affiliate
+affected:agonistic,artificial,constrained,contrived,elocutionary,emotional,forced,hokey,impressed,mannered
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+family:AARP,ASEAN,Adapid,Adapid group,Amentiferae,American Baptist Convention,American Legion,Asia,Association for the Advancement of Retired Persons,Association of Southeast Asian Nations
+reported:according,notifiable,reportable
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+significantly:importantly
+higher:high
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+pituitary:adenohypophysis,adrenal,adrenal cortex,adrenal gland,adrenal medulla,anterior pituitary,anterior pituitary gland,corpus luteum,epiphysis,epiphysis cerebri
+or:Beaver State,ER,OR,Oregon,emergency room,operating room,operating theater,operating theatre,recovery room,surgery
+acromegaly:acromegalia,adenomegaly,cor pulmonale,dactylomegaly,elephantiasis,giantism,gigantism,overgrowth,splenomegaly
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+family:AARP,ASEAN,Adapid,Adapid group,Amentiferae,American Baptist Convention,American Legion,Asia,Association for the Advancement of Retired Persons,Association of Southeast Asian Nations
+reported:according,notifiable,reportable
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+significantly:importantly
+higher:high
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+reported:according,notifiable,reportable
+any:some,whatever,whatsoever
+type:ASCII character,Adapid,Adapid group,Amentiferae,Centrospermae,Crown,Jack of all trades,Omomyid,Omomyid group,Phycomycetes
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+positive:Gram-positive,advantageous,affirmative,affirmatory,certain,charged,cocksure,confident,confirming,constructive
+family:AARP,ASEAN,Adapid,Adapid group,Amentiferae,American Baptist Convention,American Legion,Asia,Association for the Advancement of Retired Persons,Association of Southeast Asian Nations
+history:English,Occidentalism,Oriental Studies,Orientalism,Romantic Movement,Romanticism,Sinology,ability,account,ancient history
+malignancy:Indian tick fever,Kawasaki disease,Kenya fever,Marseilles fever,Meniere's disease,animal disease,anthrax,aspergillosis,autoimmune disease,autoimmune disorder
+at:Ac,Ar,As,At,B,Bh,Br,C,Cl,Db
+an:AA,AAS,AN,Associate in Applied Science,Associate in Arts,Associate in Nursing
+earlier:before,in the beginning,in the first place,originally,sooner,to begin with
+age:Golden Age,Indian summer,Jazz Age,Olympiad,Platonic year,Saint Martin's summer,actinism,adolescence,adulthood,aeon
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+negative:Gram-negative,antagonistic,bad,charged,counter,damaging,destructive,disadvantageous,disconfirming,disinclined
+family:AARP,ASEAN,Adapid,Adapid group,Amentiferae,American Baptist Convention,American Legion,Asia,Association for the Advancement of Retired Persons,Association of Southeast Asian Nations
+history:English,Occidentalism,Oriental Studies,Orientalism,Romantic Movement,Romanticism,Sinology,ability,account,ancient history
+are:acre,agate line,ar,arpent,b,barn,centare,column inch,dessiatine,em
+more:many,more than,much
+commonly:normally,ordinarily,unremarkably,usually
+before:ahead,earlier,in front
+age:Golden Age,Indian summer,Jazz Age,Olympiad,Platonic year,Saint Martin's summer,actinism,adolescence,adulthood,aeon
+percent:absentee rate,batting average,case-fatality proportion,case-to-infection proportion,case-to-infection ratio,content,golden mean,golden section,occupancy rate,pct
+before:ahead,earlier,in front
+age:Golden Age,Indian summer,Jazz Age,Olympiad,Platonic year,Saint Martin's summer,actinism,adolescence,adulthood,aeon
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+relative:African,Amerindian,Aquarius,Archer,Aries,Balance,Black,Black person,Bull,Cancer
+significantly:importantly
+higher:high
+later:after,afterward,afterwards,by and by,later on,subsequently
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+life:African,Amerindian,Aquarius,Archer,Aries,Balance,Black,Black person,Bull,Cancer
+colon:Aspinwall,Colon,Costa Rican colon,El Salvadoran colon,ampersand,angle bracket,apostrophe,ascending colon,brace,bracket
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+reported:according,notifiable,reportable
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+significantly:importantly
+higher:high
+proportion:absolute magnitude,alignment,amount,amplitude,balance,batting average,bulk,case-fatality proportion,case-to-infection proportion,case-to-infection ratio
+before:ahead,earlier,in front
+age:Golden Age,Indian summer,Jazz Age,Olympiad,Platonic year,Saint Martin's summer,actinism,adolescence,adulthood,aeon
+later:after,afterward,afterwards,by and by,later on,subsequently
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+life:African,Amerindian,Aquarius,Archer,Aries,Balance,Black,Black person,Bull,Cancer
+lung:book lung,branchia,gill
+colon:Aspinwall,Colon,Costa Rican colon,El Salvadoran colon,ampersand,angle bracket,apostrophe,ascending colon,brace,bracket
+suggest:accent,accentuate,account,acquaint,adumbrate,advance,advert,advise,advocate,affirm
+familial:genetic,hereditary,heritable,inheritable,inherited,transmissible,transmitted
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila
+clustering:ball,bunch,chunk,clod,clump,cluster,glob,knot,lump,swad
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+young:Brigham Young,Cy Young,Danton True Young,Edward Young,Lester Willis Young,Loretta Young,Pres Young,Thomas Young,Whitney Moore Young Jr.,Whitney Young
+at:Ac,Ar,As,At,B,Bh,Br,C,Cl,Db
+diagnosis:blood typing,diagnosing,medical diagnosis,uranalysis,urinalysis
+there:at that place,in that location,in that respect,on that point,thither
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+strong:alcoholic,beardown,beefed-up,brawny,bullnecked,bullocky,effective,effectual,efficacious,equipotent
+association:AARP,ASEAN,American Baptist Convention,American Legion,Association for the Advancement of Retired Persons,Association of Southeast Asian Nations,Fabian Society,Girl Scouts,LTM,NGO
+between:'tween,betwixt
+family:AARP,ASEAN,Adapid,Adapid group,Amentiferae,American Baptist Convention,American Legion,Asia,Association for the Advancement of Retired Persons,Association of Southeast Asian Nations
+history:English,Occidentalism,Oriental Studies,Orientalism,Romantic Movement,Romanticism,Sinology,ability,account,ancient history
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+lung:book lung,branchia,gill
+research:analysis,calculation,canvass,computation,count,counting,empirical research,empiricism,enquiry,enumeration
+possible:aspirant,aspirer,bidder,claimant,hopeful,job candidate,material,petitioner,probable,requester
+shared:common,distributed,divided,divided up,joint,mutual,shared out
+genetic:familial,genetical,genic,hereditary,heritable,inheritable,inherited,transmissible,transmitted
+susceptibility:absolution,ambiance,ambience,amyotonia,anchorage,ascendance,ascendancy,ascendence,ascendency,astigmatism
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+lung:book lung,branchia,gill
