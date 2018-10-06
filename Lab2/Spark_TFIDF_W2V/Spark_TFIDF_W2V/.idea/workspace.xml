@@ -2,200 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72d0f7b4-b70b-4d8e-a04a-899daa2c7f14" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/hydra.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_9_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_9_6_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_9_6_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_6_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/modules/Bioportal_API.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/modules/bioportal_api-build.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/scala_compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/build.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/data/justMedWords.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/build.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$0881031d152ed0f37e7d$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$0881031d152ed0f37e7d.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$0881031d152ed0f37e7d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$26b46b6cf265757c8529$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$26b46b6cf265757c8529.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$26b46b6cf265757c8529.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$3174522bbb3c25f98b56$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$3174522bbb3c25f98b56.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$3174522bbb3c25f98b56.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$479d2905c5adcc07d26c$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$479d2905c5adcc07d26c.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$479d2905c5adcc07d26c.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$59760ee57437d63a5bc1$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$59760ee57437d63a5bc1.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$59760ee57437d63a5bc1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$702a1122b8fe983b6760$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$702a1122b8fe983b6760.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$702a1122b8fe983b6760.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/default/bioportal_api-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/default/bioportal_api-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-bioportal_api-build-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-bioportal_api-build-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-bioportal_api-build-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-bioportal_api-build-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-bioportal_api-build-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-bioportal_api-build-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-bioportal_api-build-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-bioportal_api-build-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-bioportal_api-build-scala-tool.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-bioportal_api-build-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-bioportal_api-build-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/$global/$global/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/$global/update/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/$global/$global/discoveredMainClasses/data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/compile/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/src/main/java/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/src/main/java/lib/jackson-annotations-2.1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/src/main/java/lib/jackson-core-2.1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/src/main/java/lib/jackson-databind-2.1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/src/main/java/src/AnnotateText.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/src/main/java/src/ClassesSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/src/main/java/src/CreateMapping.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/src/main/java/src/GetLabels.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/src/main/java/src/ListOntologies.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/src/main/java/src/classes_search_terms.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/src/main/main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/.history" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/lib/jackson-annotations-2.1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/lib/jackson-core-2.1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/lib/jackson-databind-2.1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/src/AnnotateText.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/src/ClassesSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/src/CreateMapping$Mapping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/src/CreateMapping$Term.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/src/CreateMapping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/src/GetLabels.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/src/ListOntologies.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/src/classes_search_terms.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/default/bioportal_api$sbt_2.12/0.1/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/default/bioportal_api$sbt_2.12/0.1/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/default/bioportal_api$sources/0.1/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/default/bioportal_api$sources/0.1/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/default/bioportal_api$sources_2.12/0.1/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/default/bioportal_api$sources_2.12/0.1/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/default/bioportal_api_2.12/0.1/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/default/bioportal_api_2.12/0.1/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sbt_2.12-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sbt_2.12-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sbt_2.12-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sbt_2.12-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sbt_2.12-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources-scala-tool.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources_2.12-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources_2.12-default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources_2.12-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources_2.12-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources_2.12-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources_2.12-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api_2.12-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api_2.12-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api_2.12-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api_2.12-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api_2.12-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api_2.12-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api_2.12-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api_2.12-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api_2.12-scala-tool.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api_2.12-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api_2.12-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/$global/update/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/$global/updateSbtClassifiers/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/test/unmanagedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/test/unmanagedJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/src/main/scala/SparkPOSCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/src/main/scala/SparkPOSCount.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/target/scala-2.11/classes/SparkPOSCount$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/target/scala-2.11/classes/SparkPOSCount$$anonfun$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/target/scala-2.11/classes/SparkPOSCount$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/target/scala-2.11/classes/SparkPOSCount$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Ontologies.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Ontologies.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/TF_IDF.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/TF_IDF.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/W2V.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/W2V.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$1$$anonfun$apply$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$1$$anonfun$apply$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$1$$anonfun$apply$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$1$$anonfun$apply$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$2$$anonfun$apply$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$2$$anonfun$apply$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$2$$anonfun$apply$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$2$$anonfun$apply$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ontTest.scala" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -340,18 +147,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
               <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#69#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/ontTest.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="68" column="4" lean-forward="true" selection-start-line="68" selection-start-column="4" selection-end-line="72" selection-end-column="6" />
               <folding>
                 <element signature="e#0#69#0" expanded="true" />
               </folding>
@@ -575,7 +370,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538801556469" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538803510386" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../CS5560GregBrownICPSubmission/ICP4/Spark Code/Spark WordCount" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -741,12 +536,12 @@
       <workItem from="1537895693872" duration="21788000" />
       <workItem from="1538263270620" duration="27159000" />
       <workItem from="1538366832932" duration="22675000" />
-      <workItem from="1538685781245" duration="2451000" />
+      <workItem from="1538685781245" duration="2655000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78604000" />
+    <option name="totallyTimeSpent" value="78808000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
