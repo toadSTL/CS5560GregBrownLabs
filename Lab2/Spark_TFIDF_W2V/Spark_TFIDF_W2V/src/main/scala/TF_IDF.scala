@@ -31,21 +31,17 @@ object TF_IDF{
     val broadcastSW = sc.broadcast(sw.collect.toSet)
 
     //RDD of sequence of string
-    //Getting the Lemmatised form of the words in TextFile
+    //Getting individual words from corpus and removing stopwords
     val documentseq = documents.map(f => {
       val splitString = f._2.split(" ").filter(!broadcastSW.value.contains(_))
       splitString.toSeq
     })
-
     //Creating an object of HashingTF Class
     val hashingTF = new HashingTF()
-
     //Creating Term Frequency of the document
     val tf = hashingTF.transform(documentseq)
     tf.cache()
-
     val idf = new IDF().fit(tf)
-
     //Creating Inverse Document Frequency
     val tfidf = idf.transform(tf)
 
@@ -54,13 +50,11 @@ object TF_IDF{
       val values = ff(2).replace("]", "").replace(")", "").split(",")
       values
     })
-
     val tfidfindex = tfidf.flatMap(f => {
       val ff: Array[String] = f.toString.replace(",[", ";").split(";")
       val indices = ff(1).replace("]", "").replace(")", "").split(",")
       indices
     })
-
     val tfidfData = tfidfindex.zip(tfidfvalues)
 
     var hm = new HashMap[String, Double]
@@ -68,9 +62,7 @@ object TF_IDF{
     tfidfData.collect().foreach(f => {
       hm += f._1 -> f._2.toDouble
     })
-
     val mapp = sc.broadcast(hm)
-
     val documentData = documentseq.flatMap(_.toList)
     val dd = documentData.map(f => {
       val i = hashingTF.indexOf(f)

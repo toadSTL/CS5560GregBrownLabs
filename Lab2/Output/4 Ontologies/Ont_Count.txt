@@ -1,0 +1,622 @@
+osteopontin measurement, 1
+trp53-ps, 1
+nuclear distribution protein nude 1, 1
+rac serine/threonine-protein kinase (fruit fly), 1
+pik3r1, 4
+delta and notch-like epidermal growth factor-related receptor (mouse), 1
+aicda, 11
+lobulated, 1
+raf proto-oncogene serine/threonine-protein kinase, 2
+caspase-14, 2
+placental growth factor, 1
+brd4, 10
+1,2-dichloroethane exposure, 1
+vegf protein, human, 1
+nde1_mouse, 3
+colon neoplasm, 1
+vascular endothelial growth factor a-a (zebrafish), 1
+17beta-estradiol, 5
+nibrin, 2
+actine ray, 1
+murine cancer cell, 1
+personal, 1
+tumour, 2
+ccl27a, 4
+mtor_mouse, 3
+trp53, 4
+oncology, 2
+ethinyl estradiol, 14
+microliter, 1
+aicda wt allele, 1
+structural gene, 1
+mitogen-activated protein kinase 1 (mouse), 1
+receptor tyrosine-protein kinase erbb-2, 3
+vascular endothelial growth factor, 3
+mtor_rat, 3
+cadherin-1, 4
+cancer, 64
+mitogen-activated protein kinase kinase, 1
+bcl2, apoptosis regulator, 1
+cxcr4, 9
+agtr1 gene, 1
+human epidermal growth factor receptor 2 measurement, 1
+nude, 1
+zhx2, 8
+relationship, 1
+visual, 9
+xrcc2, 4
+map kinase activity, 9
+serine/threonine-protein kinase mtor, 3
+sh3yl1, 4
+invasive lobular breast carcinoma, 2
+oestradiol, 1
+pik3cb wt allele, 1
+assistance, 1
+dna repair protein rad51 homolog 3, 1
+dipturus trachyderma, 3
+nde1_human, 2
+pik3cb, 4
+caspe_mouse, 3
+nude nuclear distribution gene e homolog 1 (a. nidulans), 1
+bcl-2, 1
+obsolete_mammary gland, 1
+breast cancer detection, 1
+fludeoxyglucose f-18, 1
+has metastasis, 1
+vegfc gene, 1
+death related to adverse event, 1
+bcl-2-like protein 1, 1
+mitogen-activated protein kinase 1 (rat), 1
+sex-determining transformer protein 1 (worm), 1
+malignant neoplasm, 5
+fatal disease, 1
+growth factor, 13
+cell boundary, 1
+erbb2 gene, 1
+frap1 protein, human, 1
+mtor_human, 3
+electron-nuclear triple resonance spectroscopy, 1
+complete, 3
+colon cancer, 17
+organic sulfide, 8
+glycine betaine, 5
+bcl-2-like protein 2, 1
+ccl27 wt allele, 1
+cellular tumor antigen p53 (mouse), 1
+cancer diagnosis, 6
+fatigue subordinate domain, 1
+malignant tumour, 1
+eph receptor b2, 1
+progesterone measurement, 1
+chest wall, 23
+diagnosis, 56
+patient role, 7
+carcinoma [disease/finding], 1
+estrogen measurement, 1
+vascular endothelial growth factor a, 7
+akt kinase, 2
+erbb2 protein, human, 1
+ccl27, 4
+cells, 1
+disease or disorder, 1
+rad51, 5
+contralateral side, 2
+colorectal neoplasm, 2
+anterior ischemic optic neuropathy ae, 2
+production, 16
+breast cancer locator, 1
+first order inflorescence axis, 3
+cardiac dysfunction, 2
+zinc fingers and homeoboxes protein 2, 2
+epidermal growth factor measurement, 1
+ephrin type-b receptor 2, 3
+murine axilla, 1
+decreased functionality, 8
+malignant colon neoplasm, 1
+epithelial cadherin, 1
+cell (cytology), 1
+small cell lung cancer, 1
+dna repair protein rad51 homolog 4, 1
+rac family serine/threonine-protein kinase homolog (dictyostelium discoideum), 1
+fatigue [disease/finding], 1
+cellular tumor antigen p53 (rat), 1
+contralateral breast cancer, 1
+lung carcinoma, 5
+chest, 29
+invasive lesion, 1
+vasopressin v2 receptor, 2
+trans-acting factor d (yeast), 1
+anthracycline, 4
+pituitary adenomas, 1
+vegfb gene, 1
+bcl-x protein, 1
+receptor tyrosine-protein kinase erbb-3, 1
+neoplasm of the lung, 4
+brca2 gene, 1
+cisplatin, 6
+fdg, 2
+pi3k, 3
+bax, 12
+mast cell leukemia, 1
+foxn1, 4
+chemical, 60
+bcl1 oncogene, 1
+cell, 219
+metastasis, 14
+single-stranded dna cytosine deaminase (mouse), 1
+nde1, 7
+avpr2 gene, 1
+lung, 88
+gene object, 1
+pik3cd, 4
+tórax, 1
+cel, 1
+serine/threonine-protein kinase chk2, 3
+secreted phosphoprotein 1, 1
+cdh1, 14
+increased, 14
+pik3cd wt allele, 1
+mapk1 wt allele, 1
+mcl-1, 1
+organism, 1
+relapse, 1
+rad51d gene, 1
+palb2 gene, 1
+neoplastic cell, 1
+her-2, 1
+increase, 1
+nbn, 7
+blood count tests, 1
+growth hormone excess, 4
+phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform, 1
+peroxidase 53 (arabidopsis thaliana), 1
+rad51c, 11
+levonorgestrel product, 1
+nci ctep sdc colorectal cancer sub-category terminology, 1
+diagnosis study, 1
+human epidermal growth factor, 1
+mtor, 11
+c-x-c motif chemokine 12 receptor activity, 6
+atmosphere, 1
+map2k7, 3
+akt, 4
+multivariate imputation with chained equations, 1
+raf1 wt allele, 1
+breast neoplasm, 5
+protein kinase b, 1
+tp53, 10
+colorectal cancer, 23
+cancer cell, 1
+disproportionate, 2
+toxic effect, 1
+recurrent disease, 1
+dna repair protein rad51 homolog 1 (chicken), 1
+vegfa gene, 1
+atm, 13
+egf_mouse, 3
+fh wt allele, 1
+platinum eskimo, 1
+egf_human, 3
+nanoparticle, 7
+anthracyclines, 9
+brca1 gene, 1
+ray, 5
+mapk1, 8
+vascular endothelial growth factor b, 3
+diagnosis of cancer, 2
+wall, 21
+receptor tyrosine-protein kinase erbb-4, 2
+complete blood count, 2
+fatigue, ctcae 5.0, 1
+tp53 wt allele, 1
+triple negative breast neoplasms, 1
+recombinant vascular endothelial growth factor, 2
+tissue growth, 1
+fh, 4
+triple negative breast cancer, 2
+mus <mouse, genus>, 6
+phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform, 1
+tumeur maligne, 1
+murine pituitary gland, 1
+estradiol measurement, 1
+cdh1 gene, 1
+malignancy, 7
+apoptosis regulator bcl-2, 2
+related, 6
+palb2, 11
+partner and localizer of brca2, 3
+c-type lectin domain family 4 member d (rat), 1
+mtor gene, 1
+tolnaftate 1 % topical solution, non-oral, 1
+hairless, 2
+tiredness, 1
+invasive lobular carcinoma, 8
+17alpha-ethynylestradiol, 4
+breast cancer detection research, 1
+fzr1, 8
+dna repair protein rhp51 (schizosaccharomyces pombe 972h-), 1
+rad51d, 11
+levonorgestrel, 24
+malignant epithelial neoplasm, 1
+fatigue fracture, 1
+epidermal growth factor receptor measurement, 1
+rad51c gene, 1
+infiltrating lobular carcinoma, 1
+activation-induced cytidine deaminase, 1
+artn, 1
+phosphatidylinositol 3-kinase regulatory subunit alpha, 1
+mitogen-activated protein kinase, 3
+neoplasm metastasis, 1
+18f-fdg, 2
+cardiac, 3
+brca1 wt allele, 1
+tp53 gene, 1
+brca1, 17
+lon, 1
+mcl1, 7
+prolactinoma, 29
+disease process, 1
+vegfa wt allele, 2
+artn wt allele, 1
+avpr2, 6
+ataxia telangiectasia (atm), 1
+mek, 3
+dna repair protein rad51 1, 1
+silver sulfide, 3
+breast cancer, 21
+nuclear distribution protein nude homolog 1, 1
+pituitary, 24
+vegfa, 14
+tumor cell, 1
+erb-b2 receptor tyrosine kinase 3, 1
+spliceosomal protein dib1 (yeast), 1
+cancers, 1
+nbn gene, 1
+malignant cell, 4
+phosphatidylinositol 3-kinase vps34-like (dictyostelium discoideum), 1
+breast lobular carcinoma, 1
+malignant disease, 1
+vascular endothelial growth factor c, 3
+avpr2 wt allele, 1
+rac-alpha serine/threonine-protein kinase (mouse), 1
+mus, 4
+anterior ischemic optic neuropathy, 1
+c-type lectin domain family 4 member d (mouse), 1
+seroma, 14
+fzr1 wt allele, 1
+tumor protein p53 (li-fraumeni syndrome), 1
+troponin, 16
+ammonium tetrathiomolybdate, 1
+cxcr4 receptor, 1
+agtr1a, 1
+colorectal cancer pathway, 1
+aspirin, 31
+adp compounds hydrolase nude, 2
+ptprj, 1
+cbc, 2
+prolactin-producing pituitary gland adenoma, 1
+chemical or textual reference to actual test or parameter, 1
+diagnosis code, 1
+constant, 1
+neoplasms, 1
+chest wall structure, 1
+mitogen-activated protein kinase 1, 4
+vascular endothelial growth factor measurement, 1
+xenobiotic, 1
+nude neurodevelopment protein 1, 1
+erb-b2 receptor tyrosine kinase 4, 2
+adenomas, 3
+protein serine/threonine kinase activity, 1
+placenta growth factor, 3
+fatal, 7
+neoplasm of the breast, 3
+protein bax, 1
+obsolete_thorax, 1
+prior anthracycline therapy, 1
+brca2, 14
+vegfb, 10
+serine/threonine-protein kinase mtor (mouse), 1
+egf, 1
+phosphatidylinositol 3-kinase 3 (dictyostelium discoideum), 1
+negative number, 1
+mantle cell lymphoma, 3
+platinum, 26
+bax protein, 1
+hypophysis, 6
+aid, 4
+mdk, 4
+17 beta-estradiol, 1
+mitogen-activated protein kinase spk1 (schizosaccharomyces pombe 972h-), 1
+vascular endothelial growth factor family, 1
+breast cancer diagnosis, 1
+growth factor receptor, 3
+childhood breast carcinoma, 1
+homo sapiens, 34
+breast carcinoma, 19
+personal attribute, 1
+serine/threonine-protein kinase mtor (rat), 1
+cutaneous appendage, 8
+receptor, 57
+acetylsalicylic acid, 7
+lapatinib, 21
+diic18(7) dye, 2
+rad51 gene, 1
+osteopontin, 16
+directionality, 1
+delta and notch-like epidermal growth factor-related receptor, 2
+silver(0), 2
+mus sp., 2
+total, 11
+insulin-like receptor (fruit fly), 1
+bcl2l1, 5
+species, 36
+bax gene, 1
+tumors, 1
+bcl-2-like protein 1 (chicken), 1
+cell device, 1
+silver atom, 3
+disease, 106
+nkx3-1, 4
+large intestine, 1
+caspase-14 (mouse), 1
+capecitabine, 20
+butan-2-one, 2
+apoptosis regulator bax, 3
+family, 2
+cardiac toxicity, 2
+epidermal growth factor receptor binding, 8
+raf proto-oncogene serine/threonine-protein kinase (rat), 1
+anthracyclines [chemical/ingredient], 1
+epidermis, 2
+lung primordium, 1
+sulfide(2-), 5
+breast tumor, 2
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha, 1
+phosphatidylinositol-4,5-bisphosphate 3-kinase, 1
+murine lung, 1
+invasive carcinoma, 7
+medium confidence from single evidence, 1
+b-cell cll/lymphoma 2, 1
+neoplasm (disease), 1
+fatigue (physiology), 1
+breast cancer type 2 susceptibility protein, 3
+gene, 87
+pik3cg wt allele, 1
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha isoform, 1
+therapeutic estradiol, 1
+brd4 gene, 1
+send test system common name, 1
+temporomandibular joint, 1
+platinum(0), 2
+smug1 wt allele, 1
+diagnoses, 1
+myosin-1 (arabidopsis thaliana), 1
+estrogen, 34
+nude mouse, 1
+ephb2 wt allele, 1
+lesions, 2
+dna repair protein rad51 3, 1
+placement, 1
+vascular endothelial growth factor a (chicken), 1
+pituitary gland, 14
+erbb, 3
+epidermal, 2
+human, 74
+zinc fingers and homeoboxes protein 2 (mouse), 1
+mouse, 1
+smug1, 4
+invasive, 7
+lobular breast carcinoma, 2
+cxcr4 gene, 4
+dhcr24, 1
+dir, 1
+rab35, 6
+receptors, growth factor, 1
+cancer (animal), 1
+murine colon, 1
+prediction and recognition, 1
+epidermal growth factor, 22
+bcl2l2 wt allele, 1
+vegfc, 2
+unicellular structure, 2
+patient, 61
+ray system, 3
+murine cell types, 1
+increased carcinoma incidence, 2
+seroma [disease/finding], 1
+outer chorionic cell, 1
+cellular tumor antigen p53, 4
+ray secondary xylem parenchyma, 3
+vascular endothelial growth factor a measurement, 1
+caudal intralaminar nuclear group, 3
+bromodomain-containing protein 4, 3
+dispersive infrared spectroscopy, 1
+silver, 25
+erbb2 wt allele, 1
+troponin [chemical/ingredient], 1
+pik3cg, 4
+erbb2, 8
+familial neoplastic disease, 1
+ephb2, 5
+feel fatigue, 1
+mannose, 28
+agtr1, 4
+occiput, 1
+detection, 10
+cdisc sdtm directionality terminology, 1
+malignant neoplastic disease, 1
+cddp, 1
+consortium for molecular and cellular characterization of screen-detected lesions, 1
+nuclear cap binding complex, 6
+negative, 19
+prostaglandins f, 6
+progesterone, 46
+phosphatidylinositol 3-kinase 2 (dictyostelium discoideum), 1
+c-x-c chemokine receptor type 4, 6
+colorectal carcinoma, 3
+cardiotoxicity, 9
+levonorgestrel [chemical/ingredient], 1
+breast, 46
+metastatic malignant neoplasm, 1
+biological species, 1
+vascular endothelial growth factor a (rat), 1
+cancer detection, 3
+hydrocortisone valerate 0.2 % topical ointment (gram), 1
+bcl2l2, 4
+tumor mass, 1
+lung structure, 1
+her2, 3
+obsolete_hereditary breast and ovarian cancer, 1
+homo_sapiens, 1
+midkine, 1
+colonic neoplasm, 1
+has disease, 1
+erk, 6
+celp, 1
+dna repair protein rad51 homolog 1, 1
+thorax, 7
+thoracic structure, 1
+genes, 1
+nonsmall cell lung cancer, 1
+pituitary hormone preparation, 1
+small inducible cytokine a27, 1
+osteopontin [chemical/ingredient], 1
+complete blood cell count, 4
+patients, 9
+ptgfr gene, 1
+components, 2
+colon carcinoma, 3
+disease_state, 1
+phosphatidylinositol 3-kinase 1 (dictyostelium discoideum), 1
+women, 7
+dysfunction, 9
+myeloid cell leukemia sequence 1, 1
+colorectal, 4
+contralateral, 5
+corpus luteum hormone, 1
+veterinary patient, 1
+disease [disease/finding], 1
+heart, 2
+gene name, 1
+map kinase gene, 1
+erbb3, 7
+egfr, 8
+triple, 4
+hydrogen sulfide, 4
+breast neoplasm/cancer diagnosis, 1
+breast cancer type 1 susceptibility protein, 2
+single-stranded dna cytosine deaminase, 1
+zinc fingers and homeoboxes 2, 1
+tor serine-threonine kinases, 1
+egfr wt allele, 1
+dimethylindole red, 2
+c-c motif chemokine 27, 2
+acromegaly, 40
+p53, 2
+negative finding, 2
+serine/threonine-protein kinase atm (fruit fly), 1
+increased amount, 9
+sulfide, 18
+coloboma of optic nerve, 3
+colorectal adenocarcinoma, 1
+casp14, 4
+phosphoinositide-3-kinase regulatory subunit 1, 1
+mice, 9
+l-cysteine persulfide, 1
+colonic diseases, 1
+phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform, 1
+gamma-aminobutyrate transaminase pop2, mitochondrial (arabidopsis thaliana), 1
+medial collateral ligament, 3
+platinum [chemical/ingredient], 1
+erbb3 wt allele, 1
+vegf, 5
+her3, 1
+apoptogenic cytochrome c release channel activity, 1
+lung cancer, 20
+cellular telephone, 1
+mcl, 1
+pgf gene, 1
+lobular carcinoma, 4
+dce, 3
+dna repair protein rad51 4, 1
+chek2 gene, 1
+malignant neoplasm of breast, 1
+nuclear distribution protein nude homolog 1 (rat), 1
+bcl-2 activity, 1
+tumor, 15
+ras-related protein rab-35, 2
+1-phosphatidylinositol-3-kinase activity, 10
+anthracycline antineoplastic antibiotic, 1
+malignant tumour of breast, 1
+[hs700] pituitary, 1
+plant cell, 4
+anthracycline antibiotic, 5
+pathology, 2
+adenoma, 6
+silver [chemical/ingredient], 1
+growth, 51
+apoptosis regulator bcl-2 (mouse), 1
+mapk, 4
+prostaglandins f [chemical/ingredient], 1
+obsolete apoptogenic cytochrome c release channel activity, 5
+apoptosis regulator bcl-2 (rat), 1
+dner, 5
+therapeutic progesterone, 1
+serine-protein kinase atm, 3
+fatigue, 57
+colon, 63
+factor, 7
+rac-alpha serine/threonine-protein kinase, 3
+murine breast, 1
+pgf, 6
+seroma, ctcae, 1
+clec4d, 2
+estradiol, 44
+raf, 2
+toxicity, 30
+bcl2, 8
+her4, 2
+dna repair protein rad51 homolog (fruit fly), 1
+aion, 1
+thoracic wall, 3
+pik3ca wt allele, 1
+ptgfr, 1
+erbb4 wt allele, 1
+akt1, 11
+gsk525762a, 2
+carcinoma, 43
+people, 4
+diagnosis aspect, 1
+blood cell count, 2
+troponin measurement, 1
+asthénie, 1
+chek2, 12
+lobular, 6
+hereditary malignant neoplasm, 1
+fizzy-related protein, 2
+c-type lectin domain family 4 member d, 1
+negative charge, 1
+axilla, 32
+her-2/neu peptide vaccine, 1
+nuclear distribution protein nude homolog 1 (mouse), 1
+chest wall disorder, 1
+anatomical wall, 16
+epidermal growth factor receptor, 15
+pgf wt allele, 1
+apoptosis regulator bcl-2 (chicken), 1
+generalized growth, 1
+lactotroph adenoma, 1
+mathematical factor, 1
+pik3ca, 3
+cardiotoxicity [disease/finding], 1
+float ridge, 1
+nervous system neoplastic disease, 1
+complex i, subunit nd4l, 1
+metastatic disease, 2
+1,2-dichloroethane, 3
+wing cell, 1
+neoplasm, 13
+phosphatidylinositol 3-kinase, 1
+familial, 2
+fabrication process, 1
+erbb4, 8

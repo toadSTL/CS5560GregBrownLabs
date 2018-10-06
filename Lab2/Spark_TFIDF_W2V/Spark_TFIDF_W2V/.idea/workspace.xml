@@ -2,140 +2,200 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72d0f7b4-b70b-4d8e-a04a-899daa2c7f14" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial 3 Source Code/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Bioportal_API/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Bioportal_API/data/justMedWords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/PubMedIDs-Titles(Reference)" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Retrive_abstract/Retrive_abstract/Retrive_abstract/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Retrive_abstract/Retrive_abstract/Retrive_abstract/lab2/Just_IDs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/justMedWords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/BioportalAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Ontologies.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/W2V_MedWords.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ontTest.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial 3 Source Code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial 3 Source Code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/.idea/modules/Tutorial-3-CoreNLP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/.idea/modules/Tutorial-3-CoreNLP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/.idea/modules/tutorial-2-corenlp-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/.idea/modules/tutorial-2-corenlp-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/project/target/config-classes/$645ef258ad60b8a18118$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/project/target/config-classes/$645ef258ad60b8a18118$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/project/target/config-classes/$645ef258ad60b8a18118.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/project/target/config-classes/$645ef258ad60b8a18118.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$0454c74bbc788fd0a185$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$0454c74bbc788fd0a185$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$0454c74bbc788fd0a185.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$0454c74bbc788fd0a185.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$5f44b2b0e1e0743cafbe$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$5f44b2b0e1e0743cafbe$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$5f44b2b0e1e0743cafbe.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$5f44b2b0e1e0743cafbe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$be2ca74505dba5064624$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$be2ca74505dba5064624$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$be2ca74505dba5064624.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$be2ca74505dba5064624.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$cb102659f79ce29c88f2$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$cb102659f79ce29c88f2$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$cb102659f79ce29c88f2.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$cb102659f79ce29c88f2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$d93312e0bea055742062$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$d93312e0bea055742062$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$d93312e0bea055742062$$anonfun$$sbtdef$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$d93312e0bea055742062$$anonfun$$sbtdef$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$d93312e0bea055742062$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$d93312e0bea055742062.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$d93312e0bea055742062.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$ec16cc50b8dce6b39296$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$ec16cc50b8dce6b39296$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$ec16cc50b8dce6b39296.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$ec16cc50b8dce6b39296.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$fb3c8ba0f857427df0a1$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$fb3c8ba0f857427df0a1$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$fb3c8ba0f857427df0a1.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/config-classes/$fb3c8ba0f857427df0a1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/default/tutorial-2-corenlp-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/default/tutorial-2-corenlp-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/default/tutorial-2-corenlp-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/default/tutorial-2-corenlp-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-docs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-sources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sbt_2.11-default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sbt_2.11-default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-docs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-sources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sbt_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sbt_2.11/1.0/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sbt_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sbt_2.11/1.0/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sources_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sources_2.11/1.0/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sources_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sources_2.11/1.0/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp_2.11/1.0/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp_2.11/1.0/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/streams/$global/updateSbtClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab1/Tutorial-2-CoreNLP/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/hydra.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_9_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_9_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_9_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/modules/Bioportal_API.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/modules/bioportal_api-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/data/justMedWords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$0881031d152ed0f37e7d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$0881031d152ed0f37e7d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$0881031d152ed0f37e7d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$26b46b6cf265757c8529$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$26b46b6cf265757c8529.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$26b46b6cf265757c8529.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$3174522bbb3c25f98b56$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$3174522bbb3c25f98b56.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$3174522bbb3c25f98b56.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$479d2905c5adcc07d26c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$479d2905c5adcc07d26c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$479d2905c5adcc07d26c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$59760ee57437d63a5bc1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$59760ee57437d63a5bc1.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$59760ee57437d63a5bc1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$702a1122b8fe983b6760$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$702a1122b8fe983b6760.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/config-classes/$702a1122b8fe983b6760.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/default/bioportal_api-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/default/bioportal_api-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-bioportal_api-build-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-bioportal_api-build-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-bioportal_api-build-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-bioportal_api-build-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-bioportal_api-build-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-bioportal_api-build-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-bioportal_api-build-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-bioportal_api-build-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-bioportal_api-build-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-bioportal_api-build-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-bioportal_api-build-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/$global/$global/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/$global/update/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/$global/$global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/compile/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/project/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/src/main/java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/src/main/java/lib/jackson-annotations-2.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/src/main/java/lib/jackson-core-2.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/src/main/java/lib/jackson-databind-2.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/src/main/java/src/AnnotateText.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/src/main/java/src/ClassesSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/src/main/java/src/CreateMapping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/src/main/java/src/GetLabels.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/src/main/java/src/ListOntologies.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/src/main/java/src/classes_search_terms.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/src/main/main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/lib/jackson-annotations-2.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/lib/jackson-core-2.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/lib/jackson-databind-2.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/src/AnnotateText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/src/ClassesSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/src/CreateMapping$Mapping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/src/CreateMapping$Term.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/src/CreateMapping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/src/GetLabels.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/src/ListOntologies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/classes/src/classes_search_terms.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/default/bioportal_api$sbt_2.12/0.1/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/default/bioportal_api$sbt_2.12/0.1/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/default/bioportal_api$sources/0.1/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/default/bioportal_api$sources/0.1/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/default/bioportal_api$sources_2.12/0.1/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/default/bioportal_api$sources_2.12/0.1/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/default/bioportal_api_2.12/0.1/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/default/bioportal_api_2.12/0.1/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sbt_2.12-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sbt_2.12-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sbt_2.12-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sbt_2.12-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sbt_2.12-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources_2.12-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources_2.12-default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources_2.12-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources_2.12-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources_2.12-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api$sources_2.12-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api_2.12-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api_2.12-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api_2.12-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api_2.12-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api_2.12-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api_2.12-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api_2.12-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api_2.12-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api_2.12-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api_2.12-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/default-bioportal_api_2.12-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/ivy-report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/$global/update/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/$global/updateSbtClassifiers/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/test/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bioportal_API/target/streams/test/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/src/main/scala/SparkPOSCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/src/main/scala/SparkPOSCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/target/scala-2.11/classes/SparkPOSCount$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/target/scala-2.11/classes/SparkPOSCount$$anonfun$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/target/scala-2.11/classes/SparkPOSCount$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/target/scala-2.11/classes/SparkPOSCount$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Ontologies.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Ontologies.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/TF_IDF.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/TF_IDF.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/W2V.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/W2V.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$1$$anonfun$apply$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$1$$anonfun$apply$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$1$$anonfun$apply$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$1$$anonfun$apply$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$2$$anonfun$apply$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$2$$anonfun$apply$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$2$$anonfun$apply$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$2$$anonfun$apply$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -232,22 +292,22 @@
         <counts>
           <entry key="class" value="2" />
           <entry key="java" value="1" />
-          <entry key="scala" value="12" />
-          <entry key="txt" value="99" />
+          <entry key="scala" value="14" />
+          <entry key="txt" value="100" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
           <entry key="JAVA" value="1" />
-          <entry key="PLAIN_TEXT" value="99" />
-          <entry key="Scala" value="12" />
+          <entry key="PLAIN_TEXT" value="100" />
+          <entry key="Scala" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="95" />
-          <entry key="scala" value="1925" />
+          <entry key="scala" value="2002" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -255,7 +315,7 @@
         <counts>
           <entry key="JAVA" value="95" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Scala" value="1925" />
+          <entry key="Scala" value="2002" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -267,18 +327,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/W2V_BiGRAM.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1139">
-              <caret line="71" column="11" selection-start-line="71" selection-start-column="11" selection-end-line="71" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#34#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/output/W2V_MedWords.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3842">
@@ -287,13 +335,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Ontologies.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+            <state relative-caret-position="475">
+              <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
               <folding>
-                <element signature="e#0#50#0" expanded="true" />
+                <element signature="e#0#69#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -302,8 +350,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/ontTest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1071">
-              <caret line="77" selection-start-line="77" selection-end-line="77" />
+            <state relative-caret-position="432">
+              <caret line="68" column="4" lean-forward="true" selection-start-line="68" selection-start-column="4" selection-end-line="72" selection-end-column="6" />
               <folding>
                 <element signature="e#0#69#0" expanded="true" />
               </folding>
@@ -311,11 +359,44 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/output/Ont_Count.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            <state relative-caret-position="289">
+              <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/Ont_Data.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="29" column="58" lean-forward="true" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="54" column="23" lean-forward="true" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/W2V.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-19">
+              <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -323,7 +404,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/BioportalAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
+            <state relative-caret-position="-46">
               <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -335,8 +416,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/W2V_MedWords.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="24" column="8" selection-start-line="19" selection-start-column="6" selection-end-line="24" selection-end-column="8" />
+            <state relative-caret-position="260">
+              <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -406,7 +487,6 @@
         <option value="$PROJECT_DIR$/output/TF_IDF_Lemmas_Out" />
         <option value="$PROJECT_DIR$/src/main/scala/CoreNLP.java" />
         <option value="$PROJECT_DIR$/src/main/scala/NGRAM.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/TF_IDF.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/W2V_NGRAM.scala" />
         <option value="$PROJECT_DIR$/data/test" />
         <option value="$PROJECT_DIR$/abstracts/3.txt" />
@@ -417,10 +497,11 @@
         <option value="$PROJECT_DIR$/src/main/scala/TF_IDF_Lemmas.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/TF_IDF_NGRAM.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/W2V_MedWords.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/W2V.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/BioportalAPI.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/Ontologies.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/ontTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/TF_IDF.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/W2V.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Ontologies.scala" />
       </list>
     </option>
   </component>
@@ -430,7 +511,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1383" />
@@ -494,7 +575,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538515770190" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538801556469" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../CS5560GregBrownICPSubmission/ICP4/Spark Code/Spark WordCount" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -503,21 +584,21 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab2\Spark_TFIDF_W2V\Spark_TFIDF_W2V\output" />
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab2\Spark_TFIDF_W2V\Spark_TFIDF_W2V\output\temp" />
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab2\Spark_TFIDF_W2V\Spark_TFIDF_W2V\output\old" />
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab2\Spark_TFIDF_W2V\Spark_TFIDF_W2V\data\old\oldTF_IDF" />
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab2\Spark_TFIDF_W2V\Spark_TFIDF_W2V\data\old" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab2\Spark_TFIDF_W2V\Spark_TFIDF_W2V\MedWordsData" />
       <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab2\Spark_TFIDF_W2V\Spark_TFIDF_W2V\data" />
       <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab2\Spark_TFIDF_W2V\Spark_TFIDF_W2V\abstracts" />
       <recent name="C:\Users\Gregory\Desktop\Official\UMKC\CS5560\Spark_TFIDF_W2V\Spark_TFIDF_W2V\abstracts" />
-      <recent name="C:\Users\Gregory\Desktop\Official\UMKC\CS5560\Spark_TFIDF_W2V\Spark_TFIDF_W2V\data" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab2\Spark_TFIDF_W2V\Spark_TFIDF_W2V\output\old" />
-      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab2\Spark_TFIDF_W2V\Spark_TFIDF_W2V\data\old\oldTF_IDF" />
-      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab2\Spark_TFIDF_W2V\Spark_TFIDF_W2V\data\old" />
-      <recent name="C:\Users\Gregory\Desktop\Official\UMKC\CS5560\Spark_TFIDF_W2V\Spark_TFIDF_W2V\output\previousOutputs" />
       <recent name="C:\Users\Gregory\Desktop\Official\UMKC\CS5560\Spark_TFIDF_W2V\Spark_TFIDF_W2V\data" />
     </key>
   </component>
@@ -533,7 +614,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ontTest">
+  <component name="RunManager" selected="Application.W2V_MedWords">
     <configuration name="Ontologies" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Ontologies" />
       <module name="spark_tfidf_w2v" />
@@ -542,8 +623,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="W2V_BiGRAM" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="W2V_BiGRAM" />
+    <configuration name="TF_IDF" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="TF_IDF" />
+      <module name="spark_tfidf_w2v" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="W2V" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="W2V" />
       <module name="spark_tfidf_w2v" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -552,14 +641,6 @@
     </configuration>
     <configuration name="W2V_MedWords" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="W2V_MedWords" />
-      <module name="spark_tfidf_w2v" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="W2V_TriGRAM" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="W2V_TriGRAM" />
       <module name="spark_tfidf_w2v" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -595,19 +676,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.W2V_BiGRAM" />
-      <item itemvalue="Application.W2V_TriGRAM" />
       <item itemvalue="Application.W2V_MedWords" />
       <item itemvalue="Application.Ontologies" />
       <item itemvalue="Application.ontTest" />
+      <item itemvalue="Application.TF_IDF" />
+      <item itemvalue="Application.W2V" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.W2V_MedWords" />
+        <item itemvalue="Application.W2V" />
+        <item itemvalue="Application.TF_IDF" />
         <item itemvalue="Application.ontTest" />
         <item itemvalue="Application.Ontologies" />
-        <item itemvalue="Application.W2V_MedWords" />
-        <item itemvalue="Application.W2V_TriGRAM" />
-        <item itemvalue="Application.W2V_BiGRAM" />
       </list>
     </recent_temporary>
   </component>
@@ -660,17 +741,18 @@
       <workItem from="1537895693872" duration="21788000" />
       <workItem from="1538263270620" duration="27159000" />
       <workItem from="1538366832932" duration="22675000" />
-      <workItem from="1538685781245" duration="389000" />
+      <workItem from="1538685781245" duration="2451000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76542000" />
+    <option name="totallyTimeSpent" value="78604000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08422175" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12473348" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -680,7 +762,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.23510292" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -897,23 +979,9 @@
         <state relative-caret-position="-3761" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/W2V.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="42" column="48" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/output/old/W2V_bigram.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1211" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="41" />
-        </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/java/io/InputStream.class">
@@ -922,9 +990,6 @@
           <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/Ont_Data.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/output/old/Ont_Data.txt">
       <provider selected="true" editor-type-id="text-editor" />
@@ -946,43 +1011,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Ontologies.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/ontTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
-          <folding>
-            <element signature="e#0#69#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/BioportalAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/W2V_MedWords.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" column="8" selection-start-line="19" selection-start-column="6" selection-end-line="24" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF_Lemmas.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -995,8 +1023,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/output/Ont_Count.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        <state relative-caret-position="289">
+          <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Ont_Data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="29" column="58" lean-forward="true" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="54" column="23" lean-forward="true" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/W2V.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/W2V_MedWords.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/BioportalAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ontTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="68" column="4" lean-forward="true" selection-start-line="68" selection-start-column="4" selection-end-line="72" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Ontologies.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#69#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

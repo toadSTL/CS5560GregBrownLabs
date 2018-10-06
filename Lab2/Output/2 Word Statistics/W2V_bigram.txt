@@ -1,0 +1,100 @@
+
+Synonyms for lemma: with PA
+patients with 0.7156311273574829
+breast cancer 0.7145084142684937
+in patients 0.7141520380973816
+
+Synonyms for lemma: seroma production
+intake of 0.7904120683670044
+breast cancer 0.7898922562599182
+of breast 0.7870919108390808
+
+Synonyms for lemma: low-dose aspirin
+patients with 0.8567177653312683
+breast cancer 0.8535117506980896
+intake of 0.8499733209609985
+
+Synonyms for lemma: intake of
+breast cancer 0.9942628145217896
+patients with 0.9921957850456238
+of breast 0.9903911352157593
+
+Synonyms for lemma: aspirin use
+breast cancer 0.6399514675140381
+A derivatives 0.6397013068199158
+intake of 0.6380721926689148
+
+Synonyms for lemma: membrane type
+in a 0.23812538385391235
+improved breast 0.23521894216537476
+with primary 0.23294919729232788
+
+Synonyms for lemma: of low-dose
+of breast 0.9131209254264832
+breast cancer 0.9122622013092041
+patients with 0.9122364521026611
+
+Synonyms for lemma: significantly higher
+differential diagnosis 0.2804209589958191
+patients with 0.27722594141960144
+diagnosis with 0.27599290013313293
+
+Synonyms for lemma: PET imaging
+breast cancer 0.9477287530899048
+intake of 0.9439745545387268
+patients with 0.9438910484313965
+
+Synonyms for lemma: vitamin A
+breast cancer 0.9880945682525635
+intake of 0.9866260290145874
+patients with 0.9861450791358948
+
+Synonyms for lemma: PA diagnosed
+vitamin A 0.6744005680084229
+patients with 0.6733622550964355
+of other 0.6731416583061218
+
+Synonyms for lemma: reported in
+rare clinical 0.15177999436855316
+and unknown 0.12544065713882446
+breast-conserving surgery 0.12451544404029846
+
+Synonyms for lemma: higher than
+of patients 0.17811423540115356
+on breast 0.1746155470609665
+cancer diagnosis 0.1710328906774521
+
+Synonyms for lemma: of b-carotene
+breast cancer 0.9842584729194641
+intake of 0.9838771820068359
+patients with 0.9816545844078064
+
+Synonyms for lemma: post-diagnosis use
+patients with 0.8220936059951782
+breast cancer 0.8217264413833618
+of breast 0.8191744089126587
+
+Synonyms for lemma: four types
+of breast 0.6772516369819641
+patients with 0.6751972436904907
+breast cancer 0.6748167872428894
+
+Synonyms for lemma: before the
+intake of 0.5784168243408203
+breast cancer 0.5772728323936462
+patients with 0.5768702626228333
+
+Synonyms for lemma: very rare
+patients with 0.7264893651008606
+of breast 0.725277841091156
+in patients 0.7248831391334534
+
+Synonyms for lemma: used in
+However the 0.6226911544799805
+breast cancer 0.6204988360404968
+patients with 0.6202712655067444
+
+Synonyms for lemma: prognostic factors
+risk factors 0.6027130484580994
+and clinical 0.5865994691848755
+such as 0.5738477110862732

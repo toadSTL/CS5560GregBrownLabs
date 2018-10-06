@@ -1,17 +1,18 @@
-import java.io.{BufferedReader, InputStreamReader}
+import java.io.{BufferedReader, File, InputStreamReader, PrintWriter}
 import java.net.{HttpURLConnection, URL, URLEncoder}
 import java.util.Properties
+
 import com.fasterxml.jackson.databind.{JsonNode, ObjectMapper}
 import edu.stanford.nlp.ling.CoreAnnotations.{LemmaAnnotation, PartOfSpeechAnnotation, SentencesAnnotation, TokensAnnotation}
 import org.apache.spark.{SparkConf, SparkContext}
 import edu.stanford.nlp.pipeline.Annotation
 import edu.stanford.nlp.pipeline.StanfordCoreNLP
 import org.apache.spark.mllib.feature.{HashingTF, IDF, Word2Vec}
+
 import scala.collection.JavaConversions._
 import scala.collection.immutable.HashMap
 import scala.io.Source
 import scala.collection.mutable.ListBuffer
-
 import BioportalAPI.get
 
 object Ontologies {
@@ -62,10 +63,25 @@ object Ontologies {
       println(list._1+", "+list._2)
       (list._1, list._2)
     }).distinct
+
+    var s1:String=""
+    val testOnt = ontologies.map(a =>{
+      println("("+a._1+", "+a._2+")\n")
+      s1+="("+a._1+", "+a._2+")\n"
+      a
+    })
     sc.parallelize(ontologies).saveAsTextFile("/test/OntOut.txt")
 
+    val pw1 = new PrintWriter(new File("output/Ont_Data.txt"))
+    pw1.write(s1)
+    pw1.close()
+
     val outOnt = sc.parallelize(ontCount).reduceByKey(_+_)
-    outOnt.saveAsTextFile("/test/OntCount.txt")
+    //outOnt.saveAsTextFile("/test/OntCount.txt")
+
+    val pw2 = new PrintWriter(new File("output/Ont_Count.txt"))
+    outOnt.collect().foreach(a => pw2.write(a._1 + ", " + a._2 + "\n"))
+    pw2.close()
   }
 
 

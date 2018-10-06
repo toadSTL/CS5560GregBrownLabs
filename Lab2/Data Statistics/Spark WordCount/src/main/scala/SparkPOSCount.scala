@@ -23,6 +23,8 @@ object SparkPOSCount {
     val o=output.collect()
 
     var s:String="POS\tCount \n"
+    var ns:String="Nouns:\n"
+    var vs:String="Verbs:\n"
     var vb,nn,ot = 0
     o.foreach{case(pos,count)=>{
 

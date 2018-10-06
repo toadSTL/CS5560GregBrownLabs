@@ -17,20 +17,13 @@ object W2V {
     val sc = new SparkContext(sparkConf)
 
     val in = sc.textFile("output/TF_IDF_Out.txt")
-
     val compWords = in.flatMap(a =>{
       val r = a.substring(1, a.indexOf(",")).split(" ")
       r
     })
-
     val input = sc.wholeTextFiles("abstracts").map(line => line._2.split(" ").toSeq)
-    //var compareWord = "MRI"
-
-
     val modelFolder = new File("W2V/Model")
-
     var s:String=""
-
     if (modelFolder.exists()) {
 
       val sameModel = Word2VecModel.load(sc, "W2V/Model")
