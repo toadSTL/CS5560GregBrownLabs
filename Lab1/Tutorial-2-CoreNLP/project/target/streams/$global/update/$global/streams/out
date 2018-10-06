@@ -1,22 +1,28 @@
-[info] Updating {file:/C:/Users/Gregory/Desktop/Official/UMKC/CS5560/KDM-ICP-2/CS5560%20-%20T2%20CoreNLP%20SourceCode/Tutorial-2-CoreNLP/project/}tutorial-2-corenlp-build...
+[info] Updating {file:/D:/Users/Gregory/Documents/GitHub/CS5560GregBrownLabs/Lab1/Tutorial-2-CoreNLP/project/}tutorial-2-corenlp-build...
 [debug] :: resolving dependencies :: default#tutorial-2-corenlp-build;0.1-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
 [debug] 	refresh = false
 [debug] resolving dependencies for configuration 'compile'
 [debug] == resolving dependencies for default#tutorial-2-corenlp-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#tutorial-2-corenlp-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
+[info] Resolving org.scala-sbt#global-plugins;0.0 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-sbt#global-plugins;0.0 {compile=[default(compile)]}
+[debug] 	found org.scala-sbt#global-plugins;0.0 in inter-project
 [debug] resolving dependencies for configuration 'runtime'
 [debug] == resolving dependencies for default#tutorial-2-corenlp-build;0.1-SNAPSHOT [runtime]
 [debug] == resolving dependencies for default#tutorial-2-corenlp-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#tutorial-2-corenlp-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
 [debug] resolving dependencies for configuration 'test'
 [debug] == resolving dependencies for default#tutorial-2-corenlp-build;0.1-SNAPSHOT [test]
 [debug] == resolving dependencies for default#tutorial-2-corenlp-build;0.1-SNAPSHOT [runtime]
 [debug] == resolving dependencies for default#tutorial-2-corenlp-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#tutorial-2-corenlp-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
 [debug] resolving dependencies for configuration 'provided'
 [debug] == resolving dependencies for default#tutorial-2-corenlp-build;0.1-SNAPSHOT [provided]
 [debug] == resolving dependencies default#tutorial-2-corenlp-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [provided->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.10.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6fde738
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@698575d
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4
 [debug] 	found org.scala-lang#scala-library;2.10.4 in sbt-chain
 [debug] 	[2.10.4] org.scala-lang#scala-library;2.10.4
@@ -713,6 +719,7 @@
 [debug] resolving dependencies for configuration 'compile-internal'
 [debug] == resolving dependencies for default#tutorial-2-corenlp-build;0.1-SNAPSHOT [compile-internal]
 [debug] == resolving dependencies for default#tutorial-2-corenlp-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#tutorial-2-corenlp-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
 [debug] == resolving dependencies for default#tutorial-2-corenlp-build;0.1-SNAPSHOT [optional]
 [debug] == resolving dependencies for default#tutorial-2-corenlp-build;0.1-SNAPSHOT [provided]
 [debug] == resolving dependencies default#tutorial-2-corenlp-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [provided->default(compile)]
@@ -1185,12 +1192,14 @@
 [debug] == resolving dependencies for default#tutorial-2-corenlp-build;0.1-SNAPSHOT [runtime-internal]
 [debug] == resolving dependencies for default#tutorial-2-corenlp-build;0.1-SNAPSHOT [runtime]
 [debug] == resolving dependencies for default#tutorial-2-corenlp-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#tutorial-2-corenlp-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
 [debug] == resolving dependencies for default#tutorial-2-corenlp-build;0.1-SNAPSHOT [optional]
 [debug] resolving dependencies for configuration 'test-internal'
 [debug] == resolving dependencies for default#tutorial-2-corenlp-build;0.1-SNAPSHOT [test-internal]
 [debug] == resolving dependencies for default#tutorial-2-corenlp-build;0.1-SNAPSHOT [test]
 [debug] == resolving dependencies for default#tutorial-2-corenlp-build;0.1-SNAPSHOT [runtime]
 [debug] == resolving dependencies for default#tutorial-2-corenlp-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#tutorial-2-corenlp-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
 [debug] == resolving dependencies for default#tutorial-2-corenlp-build;0.1-SNAPSHOT [optional]
 [debug] == resolving dependencies for default#tutorial-2-corenlp-build;0.1-SNAPSHOT [provided]
 [debug] == resolving dependencies default#tutorial-2-corenlp-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [provided->default(compile)]
@@ -1766,19 +1775,19 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 705ms :: artifacts dl 44ms
-[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT compile produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-compile.xml
-[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT runtime produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-runtime.xml
-[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT test produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-test.xml
-[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT provided produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-provided.xml
-[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT optional produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-optional.xml
-[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT compile-internal produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-compile-internal.xml
-[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT runtime-internal produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-runtime-internal.xml
-[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT test-internal produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-test-internal.xml
-[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT plugin produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-plugin.xml
-[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT sources produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-sources.xml
-[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT docs produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-docs.xml
-[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT pom produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-pom.xml
-[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT scala-tool produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-scala-tool.xml
-[debug] 	resolve done (705ms resolve - 44ms download)
+[debug] :: resolution report :: resolve 1111ms :: artifacts dl 52ms
+[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT compile produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-compile.xml
+[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT runtime produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-runtime.xml
+[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT test produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-test.xml
+[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT provided produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-provided.xml
+[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT optional produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-optional.xml
+[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT compile-internal produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-compile-internal.xml
+[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT runtime-internal produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-runtime-internal.xml
+[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT test-internal produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-test-internal.xml
+[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT plugin produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-plugin.xml
+[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT sources produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-sources.xml
+[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT docs produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-docs.xml
+[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT pom produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-pom.xml
+[debug] 	report for default#tutorial-2-corenlp-build;0.1-SNAPSHOT scala-tool produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\project\target\resolution-cache\reports\default-tutorial-2-corenlp-build-scala-tool.xml
+[debug] 	resolve done (1111ms resolve - 52ms download)
 [info] Done updating.

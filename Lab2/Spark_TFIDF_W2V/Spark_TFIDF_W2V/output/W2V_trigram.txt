@@ -1,0 +1,100 @@
+
+Synonyms for lemma: patients with PA
+in patients with 0.4534316062927246
+of breast cancer 0.42326754331588745
+patients with breast 0.4044239819049835
+
+Synonyms for lemma: with PA diagnosed
+in patients with 0.477207750082016
+of low-dose aspirin 0.45761817693710327
+the intake of 0.4306524097919464
+
+Synonyms for lemma: of low-dose aspirin
+of breast cancer 0.5660803914070129
+in patients with 0.5596216917037964
+the intake of 0.5002338290214539
+
+Synonyms for lemma: family history of
+of breast cancer 0.1354506015777588
+of breast surgery 0.13368864357471466
+diagnosis in patients 0.13274437189102173
+
+Synonyms for lemma: diagnosed before the
+   0.4816247522830963
+of breast cancer 0.4691075384616852
+in patients with 0.46789881587028503
+
+Synonyms for lemma: the age of
+   0.5314058661460876
+in patients with 0.5258367657661438
+of breast cancer 0.5256537795066833
+
+Synonyms for lemma: membrane type MR
+of breast cancer 0.1204114481806755
+and RAD51 levels 0.11396526545286179
+breast cancer effects 0.10601189732551575
+
+Synonyms for lemma: association between post-diagnosis
+of breast cancer 0.459485799074173
+in patients with 0.4496060907840729
+use of low-dose 0.4051079750061035
+
+Synonyms for lemma: the intake of
+in patients with 0.6363246440887451
+of breast cancer 0.6026818156242371
+patients with breast 0.5539653897285461
+
+Synonyms for lemma: low-dose aspirin use
+of breast cancer 0.2247302383184433
+of low-dose aspirin 0.21273259818553925
+in patients with 0.2090156227350235
+
+Synonyms for lemma: four types of
+of breast cancer 0.45235544443130493
+in patients with 0.4520268738269806
+of low-dose aspirin 0.42080599069595337
+
+Synonyms for lemma: intake of b-carotene
+the intake of 0.5172174572944641
+in patients with 0.5084223747253418
+of breast cancer 0.4855450987815857
+
+Synonyms for lemma: use of low-dose
+in patients with 0.5389761328697205
+of breast cancer 0.5186712145805359
+patients with breast 0.5040701627731323
+
+Synonyms for lemma: age of 25
+   0.48021990060806274
+of breast cancer 0.4701952636241913
+in patients with 0.45387357473373413
+
+Synonyms for lemma: types of breast
+in patients with 0.42939436435699463
+of breast cancer 0.42661410570144653
+   0.39354121685028076
+
+Synonyms for lemma: before the age
+   0.4505385160446167
+in patients with 0.4502221345901489
+of breast cancer 0.45002517104148865
+
+Synonyms for lemma: post-diagnosis use of
+in patients with 0.5209177732467651
+of breast cancer 0.4973524808883667
+the intake of 0.48617875576019287
+
+Synonyms for lemma: significantly higher than
+association between post-diagnosis 0.15029822289943695
+with PA diagnosed 0.13717761635780334
+which was significantly 0.13536159694194794
+
+Synonyms for lemma: in BRCA1 wild-type
+Breast Cancer (TNBC) 0.12030614167451859
+diagnosis was 60 0.11459838598966599
+multimodal contrast agent 0.10877592116594315
+
+Synonyms for lemma: aspirin use and
+before the age 0.1316133290529251
+effects described now 0.12808623909950256
+PET/CT images were 0.12457522004842758

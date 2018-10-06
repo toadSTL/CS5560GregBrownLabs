@@ -6,7 +6,7 @@
 [debug] == resolving dependencies for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 [compile]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4bc90e5a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15863fda
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.8
 [debug] 	found org.scala-lang#scala-library;2.11.8 in sbt-chain
 [debug] 	[2.11.8] org.scala-lang#scala-library;2.11.8
@@ -15,7 +15,7 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->edu.stanford.nlp#stanford-corenlp;3.9.1 [compile->default(compile)]
 [info] Resolving edu.stanford.nlp#stanford-corenlp;3.9.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d75020d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a685f76
 [debug] sbt-chain: module revision found in cache: edu.stanford.nlp#stanford-corenlp;3.9.1
 [debug] 	found edu.stanford.nlp#stanford-corenlp;3.9.1 in sbt-chain
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->edu.stanford.nlp#stanford-corenlp;3.9.1 [compile->runtime]
@@ -23,7 +23,7 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->edu.stanford.nlp#stanford-corenlp;3.9.1 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->de.jollyday#jollyday;0.4.9 [compile->default(compile)]
 [info] Resolving de.jollyday#jollyday;0.4.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@171c4710
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3c543f07
 [debug] sbt-chain: module revision found in cache: de.jollyday#jollyday;0.4.9
 [debug] 	found de.jollyday#jollyday;0.4.9 in sbt-chain
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->de.jollyday#jollyday;0.4.9 [compile->runtime]
@@ -31,7 +31,7 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->de.jollyday#jollyday;0.4.9 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->javax.xml.bind#jaxb-api;2.2.7 [compile->default(compile)]
 [info] Resolving javax.xml.bind#jaxb-api;2.2.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@578c0e9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3c6c4b3e
 [debug] sbt-chain: module revision found in cache: javax.xml.bind#jaxb-api;2.2.7
 [debug] 	found javax.xml.bind#jaxb-api;2.2.7 in sbt-chain
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->javax.xml.bind#jaxb-api;2.2.7 [compile->runtime]
@@ -39,56 +39,15 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->javax.xml.bind#jaxb-api;2.2.7 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.apache.commons#commons-lang3;3.3.1 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-lang3;3.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56e90c6a
-[info] Resolving org.apache.commons#commons-lang3;3.3.1 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@56e90c6a
-[debug] 		tried C:\Users\Gregory\.ivy2\local\org.apache.commons\commons-lang3\3.3.1\ivys\ivy.xml
-[debug] 	local: no ivy file found for org.apache.commons#commons-lang3;3.3.1
-[debug] 		tried C:\Users\Gregory\.sbt\preloaded\org.apache.commons\commons-lang3\3.3.1\ivys\ivy.xml
-[debug] 	local-preloaded-ivy: no ivy file found for org.apache.commons#commons-lang3;3.3.1
-[debug] 		tried file:/C:/Users/Gregory/.sbt/preloaded/org/apache/commons/commons-lang3/3.3.1/commons-lang3-3.3.1.pom
-[debug] 	local-preloaded: no ivy file found for org.apache.commons#commons-lang3;3.3.1
-[debug] 		tried https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.3.1/commons-lang3-3.3.1.pom
-[debug] 	public: found md file for org.apache.commons#commons-lang3;3.3.1
-[debug] 		=> https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.3.1/commons-lang3-3.3.1.pom (3.3.1)
-[debug] downloading https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.3.1/commons-lang3-3.3.1.pom ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.3.1/commons-lang3-3.3.1.pom
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.3.1/commons-lang3-3.3.1.pom.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.3.1/commons-lang3-3.3.1.pom
-[debug] 	[SUCCESSFUL ] org.apache.commons#commons-lang3;3.3.1!commons-lang3.pom(pom.original) (91ms)
-[info] Resolving org.apache.commons#commons-parent;33 ...
-[debug] sbt-chain: Checking cache for: dependency: org.apache.commons#commons-parent;33 {}
-[info] Resolving org.apache.commons#commons-parent;33 ...
-[debug] sbt-chain-delegate: Checking cache for: dependency: org.apache.commons#commons-parent;33 {}
-[debug] 		tried C:\Users\Gregory\.ivy2\local\org.apache.commons\commons-parent\33\ivys\ivy.xml
-[debug] 	local: no ivy file found for org.apache.commons#commons-parent;33
-[debug] 		tried C:\Users\Gregory\.sbt\preloaded\org.apache.commons\commons-parent\33\ivys\ivy.xml
-[debug] 	local-preloaded-ivy: no ivy file found for org.apache.commons#commons-parent;33
-[debug] 		tried file:/C:/Users/Gregory/.sbt/preloaded/org/apache/commons/commons-parent/33/commons-parent-33.pom
-[debug] 	local-preloaded: no ivy file found for org.apache.commons#commons-parent;33
-[debug] 		tried https://repo1.maven.org/maven2/org/apache/commons/commons-parent/33/commons-parent-33.pom
-[debug] 	public: found md file for org.apache.commons#commons-parent;33
-[debug] 		=> https://repo1.maven.org/maven2/org/apache/commons/commons-parent/33/commons-parent-33.pom (33)
-[debug] downloading https://repo1.maven.org/maven2/org/apache/commons/commons-parent/33/commons-parent-33.pom ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-parent/33/commons-parent-33.pom
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-parent/33/commons-parent-33.pom.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/commons/commons-parent/33/commons-parent-33.pom
-[debug] 	[SUCCESSFUL ] org.apache.commons#commons-parent;33!commons-parent.pom(pom.original) (85ms)
-[info] Resolving org.apache#apache;13 ...
-[debug] sbt-chain: Checking cache for: dependency: org.apache#apache;13 {}
-[debug] sbt-chain: module revision found in cache: org.apache#apache;13
-[debug] 		tried C:\Users\Gregory\.ivy2\local\org.apache.commons\commons-parent\33\jars\commons-parent.jar
-[debug] 		tried C:\Users\Gregory\.sbt\preloaded\org.apache.commons\commons-parent\33\jars\commons-parent.jar
-[debug] 		tried file:/C:/Users/Gregory/.sbt/preloaded/org/apache/commons/commons-parent/33/commons-parent-33.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/apache/commons/commons-parent/33/commons-parent-33.jar
-[debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/apache/commons/commons-parent/33/commons-parent-33.jar
-[debug] 	found org.apache.commons#commons-lang3;3.3.1 in public
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7cd1090f
+[debug] sbt-chain: module revision found in cache: org.apache.commons#commons-lang3;3.3.1
+[debug] 	found org.apache.commons#commons-lang3;3.3.1 in sbt-chain
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.apache.commons#commons-lang3;3.3.1 [compile->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.apache.commons#commons-lang3;3.3.1 [compile->compile]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.apache.commons#commons-lang3;3.3.1 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.apache.lucene#lucene-queryparser;4.10.3 [compile->default(compile)]
 [info] Resolving org.apache.lucene#lucene-queryparser;4.10.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7dcc9c3c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2fc99164
 [debug] sbt-chain: module revision found in cache: org.apache.lucene#lucene-queryparser;4.10.3
 [debug] 	found org.apache.lucene#lucene-queryparser;4.10.3 in sbt-chain
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.apache.lucene#lucene-queryparser;4.10.3 [compile->runtime]
@@ -96,7 +55,7 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.apache.lucene#lucene-queryparser;4.10.3 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.apache.lucene#lucene-core;4.10.3 [compile->default(compile)]
 [info] Resolving org.apache.lucene#lucene-core;4.10.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@751f5987
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f515291
 [debug] sbt-chain: module revision found in cache: org.apache.lucene#lucene-core;4.10.3
 [debug] 	found org.apache.lucene#lucene-core;4.10.3 in sbt-chain
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.apache.lucene#lucene-core;4.10.3 [compile->runtime]
@@ -104,7 +63,7 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.apache.lucene#lucene-core;4.10.3 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.apache.lucene#lucene-queries;4.10.3 [compile->default(compile)]
 [info] Resolving org.apache.lucene#lucene-queries;4.10.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b6d361b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d3d3801
 [debug] sbt-chain: module revision found in cache: org.apache.lucene#lucene-queries;4.10.3
 [debug] 	found org.apache.lucene#lucene-queries;4.10.3 in sbt-chain
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.apache.lucene#lucene-queries;4.10.3 [compile->runtime]
@@ -112,7 +71,7 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.apache.lucene#lucene-queries;4.10.3 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.apache.lucene#lucene-sandbox;4.10.3 [compile->default(compile)]
 [info] Resolving org.apache.lucene#lucene-sandbox;4.10.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b6e14d1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2643e1e0
 [debug] sbt-chain: module revision found in cache: org.apache.lucene#lucene-sandbox;4.10.3
 [debug] 	found org.apache.lucene#lucene-sandbox;4.10.3 in sbt-chain
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.apache.lucene#lucene-sandbox;4.10.3 [compile->runtime]
@@ -120,7 +79,7 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.apache.lucene#lucene-sandbox;4.10.3 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.apache.lucene#lucene-analyzers-common;4.10.3 [compile->default(compile)]
 [info] Resolving org.apache.lucene#lucene-analyzers-common;4.10.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@75516992
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ace5faa
 [debug] sbt-chain: module revision found in cache: org.apache.lucene#lucene-analyzers-common;4.10.3
 [debug] 	found org.apache.lucene#lucene-analyzers-common;4.10.3 in sbt-chain
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.apache.lucene#lucene-analyzers-common;4.10.3 [compile->runtime]
@@ -128,7 +87,7 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.apache.lucene#lucene-analyzers-common;4.10.3 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->javax.servlet#javax.servlet-api;3.0.1 [compile->default(compile)]
 [info] Resolving javax.servlet#javax.servlet-api;3.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20ae5b6f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7f62a279
 [debug] sbt-chain: module revision found in cache: javax.servlet#javax.servlet-api;3.0.1
 [debug] 	found javax.servlet#javax.servlet-api;3.0.1 in sbt-chain
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->javax.servlet#javax.servlet-api;3.0.1 [compile->runtime]
@@ -136,15 +95,23 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->javax.servlet#javax.servlet-api;3.0.1 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile->default(compile)]
 [info] Resolving com.io7m.xom#xom;1.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6fc09c8d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@65a65e7b
 [debug] sbt-chain: module revision found in cache: com.io7m.xom#xom;1.2.10
 [debug] 	found com.io7m.xom#xom;1.2.10 in sbt-chain
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile->compile]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile->master]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->default(compile)]
+[info] Resolving xml-apis#xml-apis;1.3.03 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7169a75f
+[debug] sbt-chain: module revision found in cache: xml-apis#xml-apis;1.3.03
+[debug] 	found xml-apis#xml-apis;1.3.03 in sbt-chain
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->runtime]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->compile]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [compile->default(compile)]
 [info] Resolving xerces#xercesImpl;2.8.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1aa000ac
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@103b25b2
 [debug] sbt-chain: module revision found in cache: xerces#xercesImpl;2.8.0
 [debug] 	found xerces#xercesImpl;2.8.0 in sbt-chain
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [compile->runtime]
@@ -152,7 +119,7 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xalan#xalan;2.7.0 [compile->default(compile)]
 [info] Resolving xalan#xalan;2.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@59848688
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22d19c6f
 [debug] sbt-chain: module revision found in cache: xalan#xalan;2.7.0
 [debug] 	found xalan#xalan;2.7.0 in sbt-chain
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xalan#xalan;2.7.0 [compile->runtime]
@@ -160,7 +127,7 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xalan#xalan;2.7.0 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->joda-time#joda-time;2.9.4 [compile->default(compile)]
 [info] Resolving joda-time#joda-time;2.9.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3c370477
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@63cadc66
 [debug] sbt-chain: module revision found in cache: joda-time#joda-time;2.9.4
 [debug] 	found joda-time#joda-time;2.9.4 in sbt-chain
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->joda-time#joda-time;2.9.4 [compile->runtime]
@@ -168,7 +135,7 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->joda-time#joda-time;2.9.4 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.googlecode.efficient-java-matrix-library#ejml;0.23 [compile->default(compile)]
 [info] Resolving com.googlecode.efficient-java-matrix-library#ejml;0.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@430da5ec
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@271fe74f
 [debug] sbt-chain: module revision found in cache: com.googlecode.efficient-java-matrix-library#ejml;0.23
 [debug] 	found com.googlecode.efficient-java-matrix-library#ejml;0.23 in sbt-chain
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.googlecode.efficient-java-matrix-library#ejml;0.23 [compile->runtime]
@@ -176,7 +143,7 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.googlecode.efficient-java-matrix-library#ejml;0.23 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.glassfish#javax.json;1.0.4 [compile->default(compile)]
 [info] Resolving org.glassfish#javax.json;1.0.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a97c54b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1346143c
 [debug] sbt-chain: module revision found in cache: org.glassfish#javax.json;1.0.4
 [debug] 	found org.glassfish#javax.json;1.0.4 in sbt-chain
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.glassfish#javax.json;1.0.4 [compile->runtime]
@@ -184,7 +151,7 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.glassfish#javax.json;1.0.4 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.12 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-api;1.7.12 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b503181
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5bafb81a
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.7.12
 [debug] 	found org.slf4j#slf4j-api;1.7.12 in sbt-chain
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.12 [compile->runtime]
@@ -192,7 +159,7 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.12 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.google.protobuf#protobuf-java;3.2.0 [compile->default(compile)]
 [info] Resolving com.google.protobuf#protobuf-java;3.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c852647
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8eaf902
 [debug] sbt-chain: module revision found in cache: com.google.protobuf#protobuf-java;3.2.0
 [debug] 	found com.google.protobuf#protobuf-java;3.2.0 in sbt-chain
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.google.protobuf#protobuf-java;3.2.0 [compile->runtime]
@@ -200,7 +167,7 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.google.protobuf#protobuf-java;3.2.0 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->edu.stanford.nlp#stanford-parser;3.9.1 [compile->default(compile)]
 [info] Resolving edu.stanford.nlp#stanford-parser;3.9.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40503bc9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d772938
 [debug] sbt-chain: module revision found in cache: edu.stanford.nlp#stanford-parser;3.9.1
 [debug] 	found edu.stanford.nlp#stanford-parser;3.9.1 in sbt-chain
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->edu.stanford.nlp#stanford-parser;3.9.1 [compile->runtime]
@@ -257,6 +224,10 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile->compile]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile->master]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->default(compile)]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->runtime]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->compile]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [compile->default(compile)]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [compile->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [compile->compile]
@@ -337,6 +308,10 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [runtime->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [runtime->compile]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [runtime->master]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [runtime->default(compile)]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [runtime->runtime]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [runtime->compile]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [runtime->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [runtime->default(compile)]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [runtime->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [runtime->compile]
@@ -421,6 +396,10 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile->compile]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile->master]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->default(compile)]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->runtime]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->compile]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [compile->default(compile)]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [compile->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [compile->compile]
@@ -501,6 +480,10 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [runtime->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [runtime->compile]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [runtime->master]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [runtime->default(compile)]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [runtime->runtime]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [runtime->compile]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [runtime->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [runtime->default(compile)]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [runtime->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [runtime->compile]
@@ -581,6 +564,10 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [test->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [test->compile]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [test->master]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [test->default(compile)]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [test->runtime]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [test->compile]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [test->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [test->default(compile)]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [test->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [test->compile]
@@ -668,6 +655,10 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile->compile]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile->master]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->default(compile)]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->runtime]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->compile]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [compile->default(compile)]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [compile->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [compile->compile]
@@ -750,6 +741,10 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile-internal->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile-internal->compile]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile-internal->master]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile-internal->default(compile)]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile-internal->runtime]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile-internal->compile]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile-internal->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [compile-internal->default(compile)]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [compile-internal->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [compile-internal->compile]
@@ -834,6 +829,10 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile->compile]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile->master]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->default(compile)]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->runtime]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->compile]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [compile->default(compile)]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [compile->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [compile->compile]
@@ -914,6 +913,10 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [runtime->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [runtime->compile]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [runtime->master]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [runtime->default(compile)]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [runtime->runtime]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [runtime->compile]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [runtime->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [runtime->default(compile)]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [runtime->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [runtime->compile]
@@ -995,6 +998,10 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [runtime-internal->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [runtime-internal->compile]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [runtime-internal->master]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [runtime-internal->default(compile)]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [runtime-internal->runtime]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [runtime-internal->compile]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [runtime-internal->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [runtime-internal->default(compile)]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [runtime-internal->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [runtime-internal->compile]
@@ -1080,6 +1087,10 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile->compile]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile->master]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->default(compile)]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->runtime]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->compile]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [compile->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [compile->default(compile)]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [compile->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [compile->compile]
@@ -1160,6 +1171,10 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [runtime->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [runtime->compile]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [runtime->master]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [runtime->default(compile)]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [runtime->runtime]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [runtime->compile]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [runtime->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [runtime->default(compile)]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [runtime->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [runtime->compile]
@@ -1240,6 +1255,10 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [test->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [test->compile]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [test->master]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [test->default(compile)]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [test->runtime]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [test->compile]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [test->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [test->default(compile)]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [test->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [test->compile]
@@ -1322,6 +1341,10 @@
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [test-internal->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [test-internal->compile]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [test-internal->master]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [test-internal->default(compile)]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [test-internal->runtime]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [test-internal->compile]
+[debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xml-apis#xml-apis;1.3.03 [test-internal->master]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [test-internal->default(compile)]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [test-internal->runtime]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0->xerces#xercesImpl;2.8.0 [test-internal->compile]
@@ -1435,6 +1458,21 @@
 [debug] 	[NOT REQUIRED] javax.servlet#javax.servlet-api;3.0.1!javax.servlet-api.jar(src)
 [debug] 	[NOT REQUIRED] com.io7m.xom#xom;1.2.10!xom.jar
 [debug] 	[NOT REQUIRED] com.io7m.xom#xom;1.2.10!xom.jar(src)
+[debug] 	[NOT REQUIRED] xml-apis#xml-apis;1.3.03!xml-apis.jar
+[debug] 		tried C:\Users\Gregory\.ivy2\local\xml-apis\xml-apis\1.3.03\srcs\xml-apis-sources.jar
+[debug] 		tried C:\Users\Gregory\.sbt\preloaded\xml-apis\xml-apis\1.3.03\srcs\xml-apis-sources.jar
+[debug] 		tried file:/C:/Users/Gregory/.sbt/preloaded/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03-sources.jar
+[debug] 		tried https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03-sources.jar
+[debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03-sources.jar
+[warn] 	[FAILED     ] xml-apis#xml-apis;1.3.03!xml-apis.jar(src):  (0ms)
+[warn] ==== local: tried
+[warn]   C:\Users\Gregory\.ivy2\local\xml-apis\xml-apis\1.3.03\srcs\xml-apis-sources.jar
+[warn] ==== local-preloaded-ivy: tried
+[warn]   C:\Users\Gregory\.sbt\preloaded\xml-apis\xml-apis\1.3.03\srcs\xml-apis-sources.jar
+[warn] ==== local-preloaded: tried
+[warn]   file:/C:/Users/Gregory/.sbt/preloaded/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03-sources.jar
+[warn] ==== public: tried
+[warn]   https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03-sources.jar
 [debug] 	[NOT REQUIRED] xerces#xercesImpl;2.8.0!xercesImpl.jar
 [debug] 	[NOT REQUIRED] xerces#xercesImpl;2.8.0!xercesImpl.jar(src)
 [debug] 	[NOT REQUIRED] xalan#xalan;2.7.0!xalan.jar(src)
@@ -1456,18 +1494,24 @@
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(src)
-[debug] :: resolution report :: resolve 1823ms :: artifacts dl 45ms
-[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 compile produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-compile.xml
-[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 runtime produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-runtime.xml
-[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 test produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-test.xml
-[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 provided produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-provided.xml
-[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 optional produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-optional.xml
-[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 compile-internal produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-compile-internal.xml
-[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 runtime-internal produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-runtime-internal.xml
-[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 test-internal produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-test-internal.xml
-[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 plugin produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-plugin.xml
-[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 sources produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-sources.xml
-[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 docs produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-docs.xml
-[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 pom produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-pom.xml
-[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 scala-tool produced in C:\Users\Gregory\Desktop\Official\UMKC\CS5560\KDM-ICP-2\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-scala-tool.xml
-[debug] 	resolve done (1823ms resolve - 45ms download)
+[debug] :: resolution report :: resolve 258ms :: artifacts dl 56ms
+[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+[warn] 	::              FAILED DOWNLOADS            ::
+[warn] 	:: ^ see resolution messages for details  ^ ::
+[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+[warn] 	:: xml-apis#xml-apis;1.3.03!xml-apis.jar(src)
+[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 compile produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-compile.xml
+[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 runtime produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-runtime.xml
+[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 test produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-test.xml
+[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 provided produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-provided.xml
+[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 optional produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-optional.xml
+[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 compile-internal produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-compile-internal.xml
+[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 runtime-internal produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-runtime-internal.xml
+[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 test-internal produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-test-internal.xml
+[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 plugin produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-plugin.xml
+[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 sources produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-sources.xml
+[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 docs produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-docs.xml
+[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 pom produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-pom.xml
+[debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 scala-tool produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab1\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-scala-tool.xml
+[debug] 	resolve done (258ms resolve - 56ms download)

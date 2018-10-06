@@ -1,0 +1,100 @@
+
+Synonyms for lemma: pa
+patient 0.3444293439388275
+study 0.3443502187728882
+definitive 0.34128865599632263
+
+Synonyms for lemma: pet
+history 0.8312720656394958
+breast 0.8312004804611206
+patient 0.8307099938392639
+
+Synonyms for lemma: seroma
+breast 0.8603985905647278
+diagnosis 0.8590319156646729
+patient 0.8587660193443298
+
+Synonyms for lemma: intake
+patient 0.9671372771263123
+cancer 0.966530442237854
+breast 0.9647212028503418
+
+Synonyms for lemma: signature
+breast 0.9699933528900146
+diagnosis 0.9663483500480652
+report 0.9648304581642151
+
+Synonyms for lemma: ctn
+study 0.5797521471977234
+diagnosis 0.5726395845413208
+history 0.5717235803604126
+
+Synonyms for lemma: production
+latest 0.1168285608291626
+pet/ct 0.11522570252418518
+confirm 0.09644826501607895
+
+Synonyms for lemma: aspirin
+cancer 0.32498234510421753
+literature 0.3154974579811096
+intake 0.3134382963180542
+
+Synonyms for lemma: prolactinoma
+consider 0.3353574275970459
+patient 0.334708034992218
+surgery 0.33309516310691833
+
+Synonyms for lemma: neuroma
+patient 0.9920559525489807
+breast 0.9919278025627136
+diagnosis 0.9906764030456543
+
+Synonyms for lemma: low-dose
+study 0.24660450220108032
+evidence 0.2402345985174179
+postmenopausal 0.23972885310649872
+
+Synonyms for lemma: prognostic
+breast 0.9885660409927368
+patient 0.9869718551635742
+diagnosis 0.9862034916877747
+
+Synonyms for lemma: contrast
+imaging 0.8127210140228271
+breast 0.8107991218566895
+diagnosis 0.8087931275367737
+
+Synonyms for lemma: suvmax
+95 0.5926891565322876
+confidence 0.5745930075645447
+interval 0.5681697726249695
+
+Synonyms for lemma: post-diagnosis
+aion 0.25197818875312805
+cancer 0.2491733580827713
+intake 0.24838580191135406
+
+Synonyms for lemma: component
+definitive 0.2692534625530243
+rule 0.26530927419662476
+tissue 0.2627049684524536
+
+Synonyms for lemma: bet
+confirm 0.10701235383749008
+cell 0.10126937180757523
+brca1 0.09684604406356812
+
+Synonyms for lemma: 68ga-pentixafor
+95 0.8437380194664001
+confidence 0.8081346154212952
+interval 0.7977263927459717
+
+Synonyms for lemma: protocol
+neuroma 0.8213604092597961
+diagnosis 0.82082599401474
+patient 0.819150447845459
+
+Synonyms for lemma: abbreviated
+imaging 0.563063383102417
+agent 0.5629143118858337
+history 0.5596258044242859
