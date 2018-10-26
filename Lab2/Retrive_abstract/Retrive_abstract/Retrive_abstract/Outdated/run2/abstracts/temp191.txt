@@ -1,0 +1,1 @@
+Recent data have shown that the expression levels of long noncoding RNAs (lncRNAs) are associated with tamoxifen sensitivity in estrogen receptor (ER)-positive breast cancer. Herein, we constructed an lncRNA-based model to predict disease outcomes of ER-positive breast cancer patients treated with tamoxifen.

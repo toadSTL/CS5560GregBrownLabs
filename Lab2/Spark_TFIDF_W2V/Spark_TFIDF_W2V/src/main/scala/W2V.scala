@@ -16,17 +16,17 @@ object W2V {
 
     val sc = new SparkContext(sparkConf)
 
-    val in = sc.textFile("output/TF_IDF_Out.txt")
+    val in = sc.textFile("update/TF_IDF_Out.txt")
     val compWords = in.flatMap(a =>{
       val r = a.substring(1, a.indexOf(",")).split(" ")
       r
     })
     val input = sc.wholeTextFiles("abstracts").map(line => line._2.split(" ").toSeq)
-    val modelFolder = new File("W2V/Model")
+    val modelFolder = new File("updateW2V/Model")
     var s:String=""
     if (modelFolder.exists()) {
 
-      val sameModel = Word2VecModel.load(sc, "W2V/Model")
+      val sameModel = Word2VecModel.load(sc, "updateW2V/Model")
 
       compWords.collect().foreach(w => {
         val synonyms = sameModel.findSynonyms(w, 3)
@@ -53,11 +53,11 @@ object W2V {
         //model.getVectors.foreach(f => println(f._1 + ":" + f._2.length))
         // Save and load model
         if(!modelFolder.exists()) {
-          model.save(sc, "W2V/Model")
+          model.save(sc, "updateW2V/Model")
         }
       })
     }
-    val pw = new PrintWriter(new File("output/W2V.txt"))
+    val pw = new PrintWriter(new File("update/W2V.txt"))
     pw.write(s)
     pw.close()
 

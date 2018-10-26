@@ -24,11 +24,11 @@ public class XMLReaderForAbstracts4 {
 		// TODO Auto-generated method stub
 
 		String titles = "";
-		for (int i = 1; i < 41; i++) {
+		for (int i = 1; i < 595; i++) {
 			try {
 
-				File file = new File("lab2/abstracts/" + (i) + ".xml");
-				PrintWriter writer = new PrintWriter("lab2/abstracts/temp" + (i) + ".txt", "UTF-8");//ADDED
+				File file = new File("data_breast_cancer/abstracts/" + (i) + ".xml");
+				PrintWriter writer = new PrintWriter("data_breast_cancer/abstracts/" + (i) + ".txt", "UTF-8");//ADDED
 				//writer.write(str);
 
 
@@ -96,16 +96,16 @@ public class XMLReaderForAbstracts4 {
 
 System.out.println(titles);
 
-		for (int i = 1; i < 41; i++) {
+		for (int i = 1; i < 595; i++) {
 			FileReader fr = null;
 			BufferedReader br = null;
 			PrintWriter writer = null;
 			try {
 				//br = new BufferedReader(new FileReader(FILENAME));
-				fr = new FileReader("lab2/abstracts/temp" + (i) + ".txt");
+				fr = new FileReader("data_breast_cancer/abstracts/" + (i) + ".txt");
 				br = new BufferedReader(fr);
 				//File file = new File("new_data_breast_cancer/abstracts/" + (i) + ".xml");
-				writer = new PrintWriter("lab2/abstracts/" + (i) + ".txt", "UTF-8");
+				writer = new PrintWriter("data_breast_cancer/abstracts/lines" + (i) + ".txt", "UTF-8");
 
 				String currentLine;
 

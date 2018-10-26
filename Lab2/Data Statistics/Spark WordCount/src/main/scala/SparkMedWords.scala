@@ -31,7 +31,7 @@ object SparkMedWords {
 
       for (line <- Source.fromFile(Inputfile).getLines) {
         val data = scala.io.Source.fromURL("https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/RESTful/tmTool.cgi/" + Bioconcept + "/" + line + "/" + Format + "/").getLines()
-
+        data.foreach(println)
         val lines = data.flatMap(line => {line.split("\n")}).drop(2)
         //lines.foreach{l =>print(l+"\n")}
 

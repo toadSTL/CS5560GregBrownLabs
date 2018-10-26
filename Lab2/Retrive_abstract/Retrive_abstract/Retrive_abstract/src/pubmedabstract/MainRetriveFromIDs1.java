@@ -26,7 +26,7 @@ public class MainRetriveFromIDs1 {
 //	        	  for(int i=2014;i<=2015;i++)
 //	        	{
 	           // URL url = new URL("http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=science%5bjournal%5d+AND+cancer+AND+"+i+"%5bpdat%5d");
-	        		  URL url = new URL("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=breast%20cancer%20diagnosis&retmax=40");
+	        		  URL url = new URL("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=breast%20cancer%20diagnosis&retmax=1000");
 	            HttpURLConnection conn = (HttpURLConnection) url.openConnection();
 	            conn.setRequestMethod("GET");
 	            conn.setRequestProperty("Accept", "application/xml");

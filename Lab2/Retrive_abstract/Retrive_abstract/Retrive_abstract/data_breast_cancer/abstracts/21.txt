@@ -1,3 +1,1 @@
-Breast-conserving treatment (BCT) for breast cancer can lead to deformation of the treated breast, resulting in patient dissatisfaction with the final cosmetic outcome.
-Currently, literature on the specific information needs of patients concerning the cosmetic effects of BCT is lacking.
-The aim of the present study was to investigate the information needs of breast cancer patients regarding the long-term cosmetic outcome after BCT.
+The Breast Imaging-Reporting and Data System (BI-RADS) atlas defines category 5 assessments as appropriate only for lesions that are almost certainly cancer, with a positive predictive value (PPV) of ≥95%. This study aims to demonstrate the feasibility of classifying lesions at diagnostic breast imaging with sufficiently high PPV to merit category 5 assessments, and to identify those lesion descriptors that yield such a high PPV.

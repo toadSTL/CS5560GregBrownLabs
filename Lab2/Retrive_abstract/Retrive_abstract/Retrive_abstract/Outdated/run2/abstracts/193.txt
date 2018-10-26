@@ -1,0 +1,3 @@
+The transforming growth factor β1 (TGF-β1)/SMAD family member 3 (SMAD3) pathway, and hypoxia-inducible factor 1α (HIF-1α) are two key players in various types of malignancies including breast cancer.
+The TGF-β1/SMAD3 pathway can interact with HIF-1α in some diseases; however, their interaction in breast cancer is still unknown.
+Therefore, our study aimed to investigate the interactions between the TGF-β1/SMAD3 pathway and HIF-1α in breast cancer.

@@ -1,2 +1,1 @@
-Older patients with cancer are at risk for increased side effects of treatment.
-Our goal was to inform treatment for older patients by analyzing the relationship between chemotherapy regimen and hospitalization among older women receiving palliative cytotoxic chemotherapy for breast cancer.
+Computer-aided diagnosis (CAD) combining mammographic features from cranio-caudal (CC) and medio-lateral-oblique (MLO) views improve the diagnostic performance of breast cancer. This could help doctors incorrect diagnosis at the earlier stage thereby reducing mortality.

@@ -34,11 +34,51 @@ object TF_IDF{
     //Getting individual words from corpus and removing stopwords
     val documentseq = documents.map(f => {
       val splitString = f._2.split(" ").filter(!broadcastSW.value.contains(_))
-      splitString.toSeq
+      val arr = splitString.map(w => {
+        //println(w)
+        var tw = ""
+        if(w.takeRight(1)==","||w.takeRight(1)==":"||w.takeRight(1)=="."){
+          tw = w.dropRight(1)
+        }else{
+          tw = w
+        }
+        tw.replaceAll("\\(", "").replaceAll("\\)", "")
+      })
+      /*
+      splitString.foreach(w => {
+        println(w)
+        if(w.takeRight(1)==","){
+          w.substring(0, w.length - 1)
+        }
+      })
+       */
+
+      //splitString.foreach(_.replaceAll(",",""))
+      arr.toSeq
     })
     //Creating an object of HashingTF Class
     val hashingTF = new HashingTF()
     //Creating Term Frequency of the document
+/*
+val temp = documentseq.map(arr => {
+      arr.foreach(word => {
+        println(word)
+        println(word.takeRight(1))
+        if(word.takeRight(1)==",") {
+          println("here")
+          word.substring(0, word.length - 1)
+          println(word)
+        }
+      })
+      arr
+    })
+ */
+
+    /*
+    documentseq.foreach(_.foreach(w =>{
+      w.replaceAll(",","")
+    }))
+    */
     val tf = hashingTF.transform(documentseq)
     tf.cache()
     val idf = new IDF().fit(tf)
@@ -47,11 +87,13 @@ object TF_IDF{
 
     val tfidfvalues = tfidf.flatMap(f => {
       val ff: Array[String] = f.toString.replace(",[", ";").split(";")
+      //println(ff(2))
       val values = ff(2).replace("]", "").replace(")", "").split(",")
       values
     })
     val tfidfindex = tfidf.flatMap(f => {
       val ff: Array[String] = f.toString.replace(",[", ";").split(";")
+      //println(ff(1))
       val indices = ff(1).replace("]", "").replace(")", "").split(",")
       indices
     })
@@ -73,13 +115,22 @@ object TF_IDF{
     var s:String=""
 
     val dd1 = dd.distinct().sortBy(_._2, false)
-    dd1.take(20).foreach(f => {
+    dd1.filter(w => {
+      w._2>0&&w._2<3
+    }).take(800).foreach(f => {
       println(f)
       s+=f+"\n"
     })
 
+    /*
+    dd1.take(200).foreach(f => {
+      println(f)
+      s+=f+"\n"
+    })
+     */
+
     //Output the data to text files
-    val pw = new PrintWriter(new File("output/TF_IDF_Out.txt"))
+    val pw = new PrintWriter(new File("update/TF_IDF_Out.txt"))
     pw.write(s)
     pw.close()
 
