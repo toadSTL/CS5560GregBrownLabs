@@ -1,0 +1,10 @@
+Chemical,diindolylmethane
+Chemical,aspirin
+Chemical,warfarin
+Chemical,anastrozole
+Chemical,bortezomib
+Chemical,DDE
+Chemical,paclitaxel
+Chemical,tamoxifen
+Chemical,melatonin
+Chemical,baicalin

@@ -1,0 +1,17 @@
+Essentials Bleeding risk by anticoagulant choice for cancer-associated venous thrombosis (CA-VTE) is unknown.
+26 894 people with CA-VTE were followed for bleeding in a claims database in the United States.
+Hospitalized bleeding risk was similar with direct acting oral anticoagulants vs.
+warfarin.
+Relative hospitalized bleeding risk varied by cancer type and anticoagulant choice.
+SUMMARY: Background Direct acting oral anticoagulants (DOACs) are associated with less bleeding than traditional venous thromboembolism (VTE) treatments in the general population but are little studied in cancer-associated VTE (CA-VTE).
+Objective To determine whether different anticoagulation strategies for CA-VTE have different hospitalized bleeding rates.
+Patients/Methods We conducted a retrospective study of patients with CA-VTE, diagnosed between 2011 and 2015, in a large administrative database.
+Using validated algorithms, we identified 26 894 CA-VTE patients treated with anticoagulants and followed them for hospitalized severe bleeding.
+Cox models were used to assess bleeding risk, adjusted for age, sex, high dimensional propensity score and frailty.
+Results Over 27 281 person-years of follow-up (median 0.6 years), 1204 bleeding events occurred, for a bleeding rate of 4.4% per patient-year.
+Bleeding rates varied by cancer type, with the highest rate for upper gastrointestinal cancers (8.6%) and the lowest for breast cancer (2.9%).
+In Cox models (hazard ratio [HR]; 95% confidence interval [CI]), compared with warfarin, DOACS and low-molecular-weight heparin (LMWH) had similar hazards of bleeding (HR, 0.88; 95% CI, 0.69-1.11 and 0.98; 0.85-1.13).
+Compared with LMWH, there was no difference in hazard of bleeding with DOACs (0.86; 0.66-1.12).
+There was heterogeneity in bleeding risk with DOACs by cancer type, with a higher risk of bleeding in upper gastrointestinal cancers and lower risk of bleeding in prostate cancer and hematologic cancers.
+Conclusions In this practice-based sample of CA-VTE patients, DOACs were associated with similar bleeding risks to warfarin and LMWH.
+These findings suggest a complex association of bleeding risk with anticoagulant choice in cancer patients.

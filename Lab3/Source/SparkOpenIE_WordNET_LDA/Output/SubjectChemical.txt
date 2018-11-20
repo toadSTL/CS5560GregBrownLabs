@@ -1,0 +1,15 @@
+Chemical,omega3FattyAcids
+Chemical,DDT
+Chemical,estrogens
+Chemical,Aspirin
+Chemical,AMD3100
+Chemical,vitaminD
+Chemical,Baicalin
+Chemical,TAG72
+Chemical,Tamoxifen
+Chemical,Cabergoline
+Chemical,Estrogen
+Chemical,paclitaxel
+Chemical,estrogen
+Chemical,tamoxifen
+Chemical,baicalin

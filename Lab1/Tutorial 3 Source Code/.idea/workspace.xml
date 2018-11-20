@@ -2,139 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c5bb1b3-e1bc-448c-b57d-0c12fc944c59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Bioportal_API/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Bioportal_API/data/justMedWords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Data Statistics/Spark WordCount/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Data Statistics/Spark WordCount/data/PubMedIDs-Titles(Reference)" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Data Statistics/Spark WordCount/data/abstracts/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Data Statistics/Spark WordCount/data/abstracts/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Data Statistics/Spark WordCount/data/abstracts/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Data Statistics/Spark WordCount/data/abstracts/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Data Statistics/Spark WordCount/data/abstracts/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Data Statistics/Spark WordCount/data/abstracts/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Data Statistics/Spark WordCount/data/abstracts/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Data Statistics/Spark WordCount/data/abstracts/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Data Statistics/Spark WordCount/data/abstracts/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Data Statistics/Spark WordCount/data/abstracts/20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Retrive_abstract/Retrive_abstract/Retrive_abstract/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Retrive_abstract/Retrive_abstract/Retrive_abstract/lab2/Just_IDs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/data/justMedWords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/src/main/scala/BioportalAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/src/main/scala/Ontologies.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/src/main/scala/W2V_MedWords.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/.idea/modules/Tutorial-3-CoreNLP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/.idea/modules/Tutorial-3-CoreNLP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/.idea/modules/tutorial-2-corenlp-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/.idea/modules/tutorial-2-corenlp-build.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/project/target/config-classes/$645ef258ad60b8a18118$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/project/target/config-classes/$645ef258ad60b8a18118$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/project/target/config-classes/$645ef258ad60b8a18118.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/project/target/config-classes/$645ef258ad60b8a18118.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$0454c74bbc788fd0a185$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$0454c74bbc788fd0a185$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$0454c74bbc788fd0a185.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$0454c74bbc788fd0a185.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$5f44b2b0e1e0743cafbe$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$5f44b2b0e1e0743cafbe$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$5f44b2b0e1e0743cafbe.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$5f44b2b0e1e0743cafbe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$be2ca74505dba5064624$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$be2ca74505dba5064624$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$be2ca74505dba5064624.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$be2ca74505dba5064624.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$cb102659f79ce29c88f2$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$cb102659f79ce29c88f2$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$cb102659f79ce29c88f2.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$cb102659f79ce29c88f2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$d93312e0bea055742062$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$d93312e0bea055742062$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$d93312e0bea055742062$$anonfun$$sbtdef$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$d93312e0bea055742062$$anonfun$$sbtdef$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$d93312e0bea055742062$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$d93312e0bea055742062.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$d93312e0bea055742062.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$ec16cc50b8dce6b39296$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$ec16cc50b8dce6b39296$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$ec16cc50b8dce6b39296.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$ec16cc50b8dce6b39296.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$fb3c8ba0f857427df0a1$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$fb3c8ba0f857427df0a1$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$fb3c8ba0f857427df0a1.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/config-classes/$fb3c8ba0f857427df0a1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/default/tutorial-2-corenlp-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/default/tutorial-2-corenlp-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/default/tutorial-2-corenlp-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/default/tutorial-2-corenlp-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-docs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-sources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sbt_2.11-default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sbt_2.11-default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-docs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-sources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sbt_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sbt_2.11/1.0/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sbt_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sbt_2.11/1.0/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sources_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sources_2.11/1.0/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sources_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sources_2.11/1.0/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp_2.11/1.0/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp_2.11/1.0/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/streams/$global/updateSbtClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial-2-CoreNLP/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Retrive_abstract/Retrive_abstract/Retrive_abstract/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Retrive_abstract/Retrive_abstract/Retrive_abstract/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -156,9 +27,10 @@
     <session id="-1201798513">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -180,7 +52,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NCBO_BioNLP/src/main/java/RESTClientGet.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -196,7 +68,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NCBO_BioNLP/src/main/java/RESTClientPost.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
+            <state relative-caret-position="-570">
               <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -216,7 +88,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1383" />
@@ -228,8 +100,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -268,7 +140,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538436691619" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lab2/Data Statistics/Spark WordCount" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tutorial-2-CoreNLP" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -310,17 +182,18 @@
       <updated>1536266340728</updated>
       <workItem from="1536266344301" duration="10000" />
       <workItem from="1538361336321" duration="2084000" />
+      <workItem from="1541354075025" duration="370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2094000" />
+    <option name="totallyTimeSpent" value="2464000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18070363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -328,7 +201,6 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
@@ -340,6 +212,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -370,7 +243,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NCBO_BioNLP/src/main/java/RESTClientPost.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
+        <state relative-caret-position="-570">
           <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />

@@ -1,0 +1,2 @@
+In the current American Joint Committee on Cancer staging system of breast cancer, only tumor size determines T-category regardless of whether the tumor is single or multiple.
+This study evaluated if tumor multiplicity has prognostic value and can be used to subclassify breast cancer.

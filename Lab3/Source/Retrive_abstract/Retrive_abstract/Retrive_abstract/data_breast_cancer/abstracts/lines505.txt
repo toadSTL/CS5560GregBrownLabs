@@ -1,0 +1,10 @@
+The following study investigated the effects of Annexin A3 (ANXA3) on breast cancer biological behavior in vivo, using nude mouse model bearing a subcutaneous tumor.
+A total of 18 female nude mice were randomly divided into three groups (n = 6): negative control group which was inoculated with MDA-MB-231 cells, blank control group which was inoculated with MDA-MB-231-NC cells, and the transfection group which was inoculated with MDA-MB-231-Sh cells.
+The experiment lasted for 4 weeks, during which mice conditions, diet and defecation were monitored on a daily basis.
+Body weight, as well as tumor diameters, which were assessed using standard caliper method, were measured once a week.
+In vivo imaging was performed to detect the activity of transplanted tumors.
+H&E staining was used to analyze the histological structure of tumor tissues in three groups, while flow cytometry and fluorescent RT-PCR were performed to measure cell proliferation and the expression of ANXA3 mRNA.
+Briefly, significantly slower tumor growth and tumor activity were observed in the transfection group compared to negative and blank controls, while the tumor weight and volume in this group were also significantly lower compared to the other two groups (P < 0.01).
+Sparse tumor cells accompanied with massive fibrous connective tissue proliferation, and lower new blood vessels formation were observed in transfection group compared to other groups.
+Moreover, mRNA and protein levels of ANXA3 were significantly lower in transfection group compared to the other two groups (P < 0.01).
+In addition, lower proliferation index and higher G

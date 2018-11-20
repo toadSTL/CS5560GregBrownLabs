@@ -1,0 +1,2 @@
+The National Health Insurance Service (NHIS) established a healthcare claim database for all Korean citizens.
+This study aimed to analyze the NHIS data and investigate the patterns of breast cancer treatments.

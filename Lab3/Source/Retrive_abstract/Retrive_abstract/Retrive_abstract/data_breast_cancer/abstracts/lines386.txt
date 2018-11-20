@@ -1,0 +1,3 @@
+Expression of RNA-binding motif protein 3 (RBM3) is induced by hypoxia and hypothermia.
+Recently, high expression of RBM3 was reported to be associated with a good prognosis in colon cancer, prostate cancer, ovarian cancer, and malignant melanoma.
+Studies on RBM3 in invasive breast carcinoma (IBC), however, are limited.

@@ -1,0 +1,13 @@
+Most chronic diseases follow a socioeconomic gradient with higher rates in lower socioeconomic groups.
+A growing body of research, however, reveals cancer to be a disease group with very diverse socioeconomic patterning, even demonstrating reverse socioeconomic gradients for certain cancers.
+To investigate this matter at the German national level for the first time, this study examined socioeconomic inequalities in cancer incidence in Germany, both for all cancers combined as well as for common site-specific cancers.
+Population-based data on primary cancers newly diagnosed in 2010-2013 was obtained from the German Centre for Cancer Registry Data.
+Socioeconomic position was assessed at the district level using the German Index of Socioeconomic Deprivation, which is a composite index of area-based socioeconomic indicators.
+Absolute and relative socioeconomic inequalities in total and site-specific cancer incidence were analyzed using multilevel Poisson regression models with the logarithm of the number of residents as an offset.
+Among men, socioeconomic inequalities in cancer incidence with higher rates in more deprived districts were found for all cancers combined and various site-specific cancers, most pronounced for cancers of the lung, oral and upper respiratory tract, stomach, kidney, and bladder.
+Among women, higher rates in more deprived districts were evident for kidney, bladder, stomach, cervical, and liver cancer as well as for lymphoid/hematopoietic neoplasms, but no inequalities were evident for all cancers combined.
+Reverse gradients with higher rates in less deprived districts were found for malignant melanoma and thyroid cancer in both sexes, and in women additionally for female breast and ovarian cancer.
+Whereas in men the vast majority of all incident cancers occurred at cancer sites showing higher incidence rates in more deprived districts and cancers with a reverse socioeconomic gradient were in a clear minority, the situation was more balanced for women.
+This is the first national study from Germany examining socioeconomic inequalities in total and site-specific cancer incidence.
+The findings demonstrate that the socioeconomic patterning of cancer is diverse and follows different directions depending on the cancer site.
+The area-based cancer inequalities found suggest potentials for population-based cancer prevention and can help develop local strategies for cancer prevention and control.

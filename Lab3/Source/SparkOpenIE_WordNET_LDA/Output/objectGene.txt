@@ -1,0 +1,11 @@
+Gene,VDR
+Gene,HR
+Gene,TTF-1
+Gene,NCAM1
+Gene,CXCR4
+Gene,BRCA1
+Gene,MORC4
+Gene,HER2
+Gene,PAX8
+Gene,CK5
+Gene,growthHormoneReceptor

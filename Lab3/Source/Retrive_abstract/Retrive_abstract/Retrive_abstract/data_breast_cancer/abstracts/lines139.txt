@@ -1,0 +1,1 @@
+In histopathological routine diagnostics, three-dimensional tissue samples are analyzed histologically and/or immunohistochemically in two-dimensional sectional planes due to the high expenditure of time and the lack of digitization possibilities.

@@ -1,0 +1,10 @@
+As modern radiotherapy, including intensity-modulated techniques, is associated with high dose gradients to normal tissues and large low-to-moderate dose volumes, the assessment of second primary cancer (SPC) risks requires quantification of dose-volume effects.
+We conducted a systematic review of clinical and epidemiological studies investigating the effect of the irradiated volume or dose-volume distribution to the remaining volume at risk (RVR) on SPC incidence.
+We identified eighteen studies comparing SPC risks according to the irradiated volume (i.e., in most studies, the size or number of fields used), and four studies reporting risk estimates according to the dose distribution to the RVR (after whole-body dose reconstruction).
+An increased risk of SPCs (mainly breast and lung cancers) with extended radiotherapy was observed among patients treated for Hodgkin lymphoma or childhood cancers.
+However, normal tissue dose distribution was not estimated, limiting the interpretation of those results in terms of volume effects on organs at risk.
+Studies considering whole-body exposures quantified dose-response relationships for point dose estimates, without accounting for dose-volume distributions.
+Therefore, they disregarded possible tissue effects (e.g.
+bystander and abscopal effects, stem cell repopulation) which may play a role in the induction of SPCs.
+Currently, there is no clinical or epidemiological information about a possible role of high dose gradients in surrounding organs, or increasing volumes of distant tissues exposed to low doses, in the risk of SPCs.
+Opportunities for future research nevertheless now exist, since methods and tools for estimating individual whole-body dose-volume distributions in large patient populations have been developed.

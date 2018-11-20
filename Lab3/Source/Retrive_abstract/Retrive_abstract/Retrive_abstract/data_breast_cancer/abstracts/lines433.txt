@@ -1,0 +1,4 @@
+Triple-negative breast cancer (TNBC) accounts for a disproportionately high number of deaths due to a lack of targeted therapies and an increased likelihood of distant recurrence.
+Estrogen receptor beta (ERβ), a well-characterized tumor suppressor, is expressed in 30% of TNBCs, and its expression is associated with improved patient outcomes.
+We demonstrate that therapeutic activation of ERβ elicits potent anticancer effects in TNBC through the induction of a family of secreted proteins known as the cystatins, which function to inhibit canonical TGFβ signaling and suppress metastatic phenotypes both in vitro and in vivo.
+These data reveal the involvement of cystatins in suppressing breast cancer progression and highlight the value of ERβ-targeted therapies for the treatment of TNBC patients.

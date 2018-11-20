@@ -1,0 +1,3 @@
+HER2 has been implicated in mammary tumorigenesis as well as aggressive tumor growth and metastasis.
+Its overexpression is related to a poor prognosis and chemoresistance in breast cancer patients.
+Although Grb2-associated binding protein 2 (Gab2) is important in the development and progression of human cancer, its effects and mechanisms in HER2-overexpressing breast cancer are unclear.

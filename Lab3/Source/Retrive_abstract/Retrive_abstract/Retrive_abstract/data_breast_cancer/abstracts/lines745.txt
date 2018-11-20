@@ -1,0 +1,12 @@
+Breast cancer (BC) is a prominent source of cancer mortality in women throughout the world.
+β-Sitosterol-d-glucoside (β-SDG), a newly isolated phytosterol from sweet potato, possibly displays potent anticancer activity.
+However, the probable anticancer mechanisms involved are still unclear.
+This study sought to study how β-SDG from sweet potato affects two BC cell lines (MCF7 and MDA-MB-231) and nude mice bearing MCF7-induced tumors.
+In addition, we assessed how β-SDG affects tumor suppressor miR-10a and PI3K-Akt signaling in BC cells.
+Cell viability and proliferation were determined via MTT and colony-formation assays, and apoptosis was quantified by Hoechst staining and flow cytometry.
+In addition, miR-10a expression and apoptosis-related protein levels were measured.
+Our study indicated that β-SDG exhibited cytotoxic activities on MCF7 and MDA-MB-231 cells via inducing apoptosis and activating caspase proteases in these cells.
+Furthermore, the experimental results in nude mice bearing MCF7-induced tumors demonstrated that oral β-SDG administration at medium (60 mg/kg) or high (120 mg/kg) doses was sufficient to substantially impair the growth of tumors and to decrease the levels of CEA, CA125, and CA153 by 64.71, 74.64, and 85.32%, respectively, relative to those of the controls ( P < 0.01).
+β-SDG was further found to regulate the expression of PI3K, p-Akt, Bcl-2-family members, and other factors involved in the PI3K-Akt-mediated mitochondrial signaling pathway via the tumor suppressor miR-10a.
+These findings indicated that β-SDG suppresses tumor growth by upregulating miR-10a expression and inactivating the PI3K-Akt signaling pathway.
+Furthermore, β-SDG could be developed as a potential therapeutic agent against MCF7-cell-related BC.

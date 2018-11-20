@@ -1,0 +1,1 @@
+In patients with chemotherapy-induced amenorrhea (CIA), the menopausal status is ambiguous and difficult to evaluate. This study aimed to establish a discriminative model to predict and classify the menopausal status of breast cancer patients with CIA.

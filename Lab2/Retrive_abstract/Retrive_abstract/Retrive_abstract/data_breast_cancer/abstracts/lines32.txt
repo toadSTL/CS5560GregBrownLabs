@@ -1,0 +1,6 @@
+Photodynamic therapy (PDT) is widely used in clinical practice to influence neoplasms in the presence of a photosensitizer, oxygen, and light source.
+The main problem of PDT of deep tumors is the problem of delivering excitation light (without lost of its intensity) inside the body.
+An alternative to the external light sources can be the internal light sources based on luciferase-substrate bioluminescent systems.
+In our work, we used the NanoLuc-furimazine system as an internal light source.
+This system can be successfully used to excite the protein photosensitizer miniSOG and to induce the phototoxicity of this flavoprotein in cancer cells during bioluminescent resonance energy transfer (BRET).
+It was shown that the mechanism of cell death caused by BRET-induced phototoxicity of mimiSOG in the presence of furimazine depends on the intracellular localization of the NanoLuc-miniSOG fusion protein: BRET-mediated activation of miniSOG in mitochondrial localization causes apoptosis, while the membrane localization of PS causes necrosis of cancer cells.

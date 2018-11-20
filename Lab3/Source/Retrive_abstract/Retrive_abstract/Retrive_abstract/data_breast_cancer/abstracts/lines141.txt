@@ -1,0 +1,7 @@
+MicroRNAs (miRNAs) act a significant role in multiple biological processes and their associations with the development of all kinds of complex diseases are much close.
+In the research area of biology, medicine, and bioinformatics, prediction of potential miRNA-disease associations (MDAs) on the base of a variety of heterogeneous biological datasets in a short time is an important subject.
+Therefore, we proposed the model of Composite Network based inference for MiRNA-Disease Association prediction (CNMDA) through applying random walk to a multi-level composite network constructed by heterogeneous dataset of disease, long noncoding RNA (lncRNA) and miRNA.
+The results showed that CNMDA achieved an AUC of 0.8547 in leave-one-out cross validation and an AUC of 0.8533+/-0.0009 in 5-fold cross validation.
+In addition, we employed CNMDA to infer novel miRNAs for kidney neoplasms, breast neoplasms and lung neoplasms on the base of HMDD v2.0.
+Also, we employed the approach for lung neoplasms on the base of HMDD v1.0 and for breast neoplasms that have no known related miRNAs.
+It was found that CNMDA could be seen as an applicable tool for potential MDAs prediction.

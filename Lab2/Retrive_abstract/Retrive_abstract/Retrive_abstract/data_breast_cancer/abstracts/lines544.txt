@@ -1,0 +1,7 @@
+Overexpression of the deubiquitylase ubiquitin-specific peptidase 22 (USP22) is a marker of aggressive cancer phenotypes like metastasis, therapy resistance, and poor survival.
+Functionally, this overexpression of USP22 actively contributes to tumorigenesis, as USP22 depletion blocks cancer cell cycle progression in vitro, and inhibits tumor progression in animal models of lung, breast, bladder, ovarian, and liver cancer, among others.
+Current models suggest that USP22 mediates these biological effects via its role in epigenetic regulation as a subunit of the Spt-Ada-Gcn5-acetyltransferase (SAGA) transcriptional cofactor complex.
+Challenging the dogma, we report here a nontranscriptional role for USP22 via a direct effect on the core cell cycle machinery: that is, the deubiquitylation of the G1 cyclin D1 (CCND1).
+Deubiquitylation by USP22 protects CCND1 from proteasome-mediated degradation and occurs separately from the canonical phosphorylation/ubiquitylation mechanism previously shown to regulate CCND1 stability.
+We demonstrate that control of CCND1 is a key mechanism by which USP22 mediates its known role in cell cycle progression.
+Finally, USP22 and CCND1 levels correlate in patient lung and colorectal cancer samples and our preclinical studies indicate that targeting USP22 in combination with CDK inhibitors may offer an approach for treating cancer patients whose tumors exhibit elevated CCND1.

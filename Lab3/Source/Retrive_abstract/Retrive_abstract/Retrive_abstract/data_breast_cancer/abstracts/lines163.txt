@@ -1,0 +1,12 @@
+Globally, 39% of the world's adult population is overweight or obese and 23% is insufficiently active.
+These percentages are even larger in high-income countries with 58% overweight/obese and 33% insufficiently active.
+Fourteen cancer types have been declared by the World Cancer Research Fund to be causally associated with being overweight or obese: oesophageal adenocarcinoma, stomach cardia, colon, rectum, liver, gallbladder, pancreas, breast, endometrium, ovary, advanced/fatal prostate, kidney, thyroid and multiple myeloma.
+Colon, postmenopausal breast and endometrial cancers have also been judged causally associated with physical inactivity.
+We aimed to quantify the proportion of cancer cases that would be potentially avoidable in Australia if the prevalence of overweight/obesity and physical inactivity in the population could be reduced.
+We used the simulation modelling software PREVENT 3.01 to calculate the proportion of avoidable cancers over a 25-year period under different theoretical intervention scenarios that change the prevalence of overweight/obesity and physical inactivity in the population.
+Between 2013 and 2037, 10-13% of overweight/obesity-related cancers in men and 7-11% in women could be avoided if overweight and obesity were eliminated in the Australian population.
+If everyone in the population met the Australian physical activity guidelines for cancer prevention (i.e.
+engaged in at least 300 min of moderate-intensity physical activity per week), an estimated 2-3% of physical inactivity-related cancers could be prevented in men (colon cancer) and 1-2% in women (colon, breast and endometrial cancers).
+This would translate to the prevention of up to 190,500 overweight/obesity-related cancers and 19,200 inactivity-related cancers over 25 years.
+This article is protected by copyright.
+All rights reserved.

@@ -1,0 +1,11 @@
+Hereditary diffuse gastric cancer (HDGC) is an autosomal-dominantly inherited cancer syndrome associated with a high risk for diffuse gastric and lobular breast cancer, caused by heterozygous CDH1 germline mutations.
+Of note, also cleft lip/palate (CLP) has been described in few HDGC families.
+Here we report on an extensive pedigree presenting with HDGC, CLP and a CDH1 splice site mutation (c.687 + 1G > A) and review the literature for families with CDH1 mutations, HDGC and CLP.
+Transcript analysis showed that the c.687 + 1G > A mutation leads to loss of the last 42 bp of exon 5 and is consequently predicted to cause loss of 14 amino acids in the first extracellular cadherin repeat (EC) domain.
+Five mutation carriers developed diffuse gastric cancer and four individuals presented with CLP.
+Wild type CDH1 expression levels did not differ between CDH1 mutation carriers with CLP compared to those without CLP.
+Beside this extensive pedigree, we outline another previously unreported HDGC/CLP family with a CDH1 (c.1711 + 1G > C) germline mutation in this study.
+Review of the literature revealed a significant enrichment of CDH1 mutations within the EC domains in CLP/HDGC families (Fisher's exact test, p = 0.007) in comparison to CDH1 mutations associated with HDGC only.
+Report of further CLP/HDGC associated mutations is necessary to confirm this observation.
+This study highlights that CLP represents an important phenotypic feature of CDH1 germline mutation carriers and emphasizes the inclusion of CLP in the HDGC testing criteria.
+The underlying causes for the appearance of variable phenotypes in CDH1 mutation carriers could include genetic variation, epigenetic changes and environmental factors and should be investigated in future studies.

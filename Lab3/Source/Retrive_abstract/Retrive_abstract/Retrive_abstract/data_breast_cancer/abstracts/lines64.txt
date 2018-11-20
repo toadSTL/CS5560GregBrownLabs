@@ -1,0 +1,2 @@
+This preliminary study was conducted to evaluate the association between Oncotype DX (ODX) recurrence score and traditional prognostic factors.
+We also developed a nomogram to predict subgroups with low ODX recurrence scores (less than 25) and to avoid additional chemotherapy treatments for those patients.

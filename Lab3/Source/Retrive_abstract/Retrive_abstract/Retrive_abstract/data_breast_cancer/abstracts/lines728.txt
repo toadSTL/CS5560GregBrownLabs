@@ -1,0 +1,3 @@
+Apoptosis plays a crucial role in many biological processes, especially in cancer.
+However, real-time monitoring of apoptosis is challenging.
+[

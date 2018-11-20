@@ -1,0 +1,4 @@
+Breast cancer is the most common cancer in women worldwide, and within this cancer type, triple-negative breast cancers have the worst prognosis.
+The identification of new genes associated with triple-negative breast cancer progression is crucial for developing more specific anti-cancer targeted therapies, which could lead to a better management of these patients.
+In this context, we have recently demonstrated that SMARCAD1, a DEAD/H box-containing helicase, is involved in breast cancer cell migration, invasion, and metastasis.
+The aim of this study was to investigate the impact of the stable knockdown of SMARCAD1 on human breast cancer cell progression.

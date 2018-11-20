@@ -1,0 +1,3 @@
+In breast cancer, Pax-5 promotes pro-epithelial features and suppresses malignant cancer processes.
+However, the molecular mechanism of this antitumor activity remains largely unknown.
+This study aimed to identify the cellular roles of Pax-5-regulated miRNAs in breast cancer progression.

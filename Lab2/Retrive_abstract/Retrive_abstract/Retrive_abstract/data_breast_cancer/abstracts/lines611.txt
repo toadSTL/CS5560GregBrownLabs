@@ -1,0 +1,4 @@
+Overcoming resistance to antimitotic drugs, such as paclitaxel (PTX), would represent a major advance in breast cancer treatment.
+PTX induces mitotic block and sensitive cells exit mitosis dying by mitotic catastrophe.
+Resistant cells remain in block and continue proliferation after drug decay, denoting one of the PTX resistance mechanisms.
+Mild hyperthermia (HT) triggers mitotic exit of PTX-pretreated cells, overcoming PTX resistance and suggesting HT-forced mitotic exit as a promising strategy to potentiate PTX.

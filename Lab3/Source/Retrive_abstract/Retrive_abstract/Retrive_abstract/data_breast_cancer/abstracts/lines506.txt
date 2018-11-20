@@ -1,0 +1,4 @@
+Dose-dense chemotherapy (DD-CT) is a preferred (neo) adjuvant regimen in early breast cancer (BC).
+Although the results of reported randomized trials are conflicting, a recent meta-analysis showed improved overall and disease-free survival with DD-CT compared to conventional schedules.
+However, no DD-CT safety data for Korean BC patients are available.
+This phase II study was conducted to evaluate the safety and efficacy of pegteograstim in Korean BC patients receiving DD-CT.
