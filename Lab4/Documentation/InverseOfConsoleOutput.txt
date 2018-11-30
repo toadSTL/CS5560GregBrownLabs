@@ -1,0 +1,13 @@
+(breastCancer,isMostCommonCancerAmong,women)
+(women,isWith,breastCancer)
+(women,isWith,breastCancer)
+(breastCancer,isMostCommonCancerAmong,women)
+(women,isWith,breastCancer)
+(breastCancer,isMostCommonCancerIn,women)
+(breastCancer,isMostCommonCancerIn,women)
+(women,isWith,breastCancer)
+results go here: 
+isMostCommonCancerAmong,isWith
+isWith,isMostCommonCancerAmong
+isWith,isMostCommonCancerIn
+isMostCommonCancerIn,isWith

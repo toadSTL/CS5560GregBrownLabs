@@ -1,1 +1,1 @@
-The National Health Insurance Service (NHIS) established a healthcare claim database for all Korean citizens. This study aimed to analyze the NHIS data and investigate the patterns of breast cancer treatments.
+Due to improvements in breast cancer diagnosis and treatment, the healthcare system faces a growing number of cancer survivors. Breast cancer survivors experience many difficulties when returning to work, including discrimination at work and lack of support by employers and colleagues.

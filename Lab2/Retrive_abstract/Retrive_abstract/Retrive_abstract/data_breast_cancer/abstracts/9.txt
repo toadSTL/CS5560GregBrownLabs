@@ -1,1 +1,1 @@
-Breast cancer survivors face numerous challenges after diagnosis and treatment. Several models have been developed to attempt to improve quality of care. Here, we describe characteristics and outcomes of patients who participated in survivorship visits (SV) at Johns Hopkins (JH).
+In the era of extensive data collection, there is a growing need for a large scale data analysis with tools that can handle many variables in one modeling framework. In this article, we present our recent applications of Bayesian network modeling to pathology informatics.
